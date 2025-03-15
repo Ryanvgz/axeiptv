@@ -1,0 +1,7 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/RCTI_logo_2015.svg" group-title="TV LOKAL",RCTI
+https://rcti-linier.rctiplus.id/hdntl=exp=1742047458~acl=%2F*~data=hdntl~hmac=01336f37c7ed8fe0ef724dbb43caf272eabdff657ffc9086f07dea8d0c600df7/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars 2006
+https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4

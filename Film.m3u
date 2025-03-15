@@ -2,6 +2,12 @@
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/987px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars 2006
 https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4

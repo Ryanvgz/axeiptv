@@ -39,5 +39,5 @@ LINK
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars 2006
 https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Cars_2_Poster.jpg" group-title="FILM",Cars 2 2011
+#EXTINF:-1 tvg-logo="/Cars_2_Poster.jpg" group-title="FILM",Cars 2 2011
 https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4

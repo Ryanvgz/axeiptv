@@ -8,6 +8,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="TV LOKAL",KOMPAS-TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TV LOKAL",TVRI HD
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
 
 
 

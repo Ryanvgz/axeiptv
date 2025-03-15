@@ -16,10 +16,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png" group-title="TV LOKAL",CCN-NEWS TV
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
-LINK
-#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
-LINK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png" group-title="TV LOKAL",CNBC TV
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/800px-TvOne_2023.svg.png" group-title="TV LOKAL",TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
 LINK
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--

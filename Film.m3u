@@ -14,6 +14,14 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/320px-Logo_Trans_TV.png" group-title="TV LOKAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png" group-title="TV LOKAL",CCN-NEWS TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
+#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
+LINK
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
 LINK
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--

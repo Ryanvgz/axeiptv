@@ -71,10 +71,15 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="FILM",Cars 3 2017
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="FILM",Cars 3 (2017)
 https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="FILM",Cars 2 2011
+#EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="FILM",Cars 2 (2011)
 https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars 2006
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars (2006)
 https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_film.jpg" group-title="FILM",Toy Story (1995)
+https://cldup.com/iAs8qzOwTf8.mp4
+#EXTINF:-1 tvg-logo="-" group-title="FILM",-
+-
+
 

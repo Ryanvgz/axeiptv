@@ -114,5 +114,10 @@ https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",ONE PICE
 https://a3.mp4upload.com:183/d/xsxtls4jz3b4quuopgrbay2jk7rk3iujxcylgfcsvdh2gekf7morpojkswfyxdbyvfdhsxnr/[NontonAnimeID]-OP-1122-720p-.mp4
 
+#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://drive.google.com/thumbnail?id=1tiTOS-RPr7ZSx53DX6X8OdOsfidztVvL",OP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1tiTOS-RPr7ZSx53DX6X8OdOsfidztVvL&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
 
+#EXTINF:-1 group-title="Nasional" tvg-id="RCTI - [Channel 80].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/RCTI_logo_2015.svg",RCTI
+https://rcti-linier.rctiplus.id/hdntl=exp=1742047458~acl=%2F*~data=hdntl~hmac=01336f37c7ed8fe0ef724dbb43caf272eabdff657ffc9086f07dea8d0c600df7/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 

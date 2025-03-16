@@ -42,6 +42,12 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="TV LOKAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg/1200px-Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg.png" group-title="TV LOKAL",KEMENKES TV
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png" group-title="TV LOKAL",TABALONG TV
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
 LINK
 

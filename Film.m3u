@@ -26,17 +26,19 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png" group-title="TV LOKAL",MDTV (NET TV)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
-#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
-LINK
-#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
-LINK
-#EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
-LINK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV LOKAL",b=BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png" group-title="TV LOKAL",NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/800px-Logo_BeritaSatu_Media.png" group-title="TV LOKAL",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="---" group-title="TV LOKAL",--
 LINK
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
+#EXTINF:-1 tvg-logo="--" group-title="FILM",--
+--
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="FILM",Cars 2006
 https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="FILM",Cars 2 2011

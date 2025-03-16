@@ -2,6 +2,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MEKKAH LIVE 24/7
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MADINAH LIVE 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742139602/ei/cpzWZ5uOJ8_o7OsPxJe2iQM/ip/2001%3A448a%3A602c%3A38d%3A48b9%3A28b7%3Ab83f%3A413d/id/j_JS9cYi234.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AccgBcPWZnGE7ZS2p7AoNE1wpHnfXvHBFcKYHjS821gExxm6r7lnhS1fmtFV0d7RXsHfa3kh6g/spc/_S3wKh6_EyCB-3ujokjRag911oQFb4Y4-leF6akKtUuF9lBrbAUf0g-IIFuE9hBCUg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUCMXeY52kAmSOuOqx8kRS-c5wVL8HzEod0MzRFmv7HQCIQCcYetalEkCmdiHC2_7lEKbtK8A5e_IkDtJzMGMGP45Ug%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/987px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR

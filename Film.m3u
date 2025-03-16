@@ -2,6 +2,10 @@
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="LIVE EVENT",SPORT 1
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMjVDOhlDO0cTO0kTLkZTNi1SZ3QDNtUTYzUTL2ATZhFjMhF2L.m3u8
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="LIVE EVENT",SPORT 2
+https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COmJjNmNDZxADMzIWL1MDZ40iMycDNtkTNwQTLiNTN1UTOxkzL.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MEKKAH LIVE 24/7

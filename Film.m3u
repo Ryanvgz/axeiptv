@@ -50,6 +50,14 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="TV LOKAL",AXN INDIHOME
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/custom-upload/brand-center/biznet_iptv_logo_full_colors.jpg" group-title="TV LOKAL",BIZNET LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="TV LOKAL",MY CENEMA
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="TV LOKAL",MY KIDZ HD
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4

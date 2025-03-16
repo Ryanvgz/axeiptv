@@ -70,6 +70,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="FILM",Captain America: Brave New World (2025)
+https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="FILM",Cars 3 (2017)
 https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="FILM",Cars 2 (2011)

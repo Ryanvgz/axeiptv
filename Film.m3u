@@ -1,4 +1,4 @@
-TV
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MEKKAH LIVE 24/7
@@ -70,7 +70,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
 https://primatv.siar.us/primatv/live/playlist.m3u8
 
-FILM
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="FILM",Cars 3 (2017)
 https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
@@ -123,7 +122,6 @@ https://cldup.com/iZ9h9U5ciQZ.mp4
 #EXTINF:-1 tvg-logo="-" group-title="FILM",-
 -
 
-SERIS
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/doraemon-360224630-large.jpg" group-title="SERIES",Doraemon Series - Bersemangatlah Rumah Hantu

@@ -2,8 +2,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="LIVE EVENT",SPORT 1
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMjVDOhlDO0cTO0kTLkZTNi1SZ3QDNtUTYzUTL2ATZhFjMhF2L.m3u8
-#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="LIVE EVENT",SPORT 2
-https://su00yous3-cf.tikballaa.com/auth%3De48cb683c022880374c503edfb4fe1a908ed1feee7b7105b55aacd7f439817c4a5d5f34384a0ab7121c891187c5227e8f9324a6138a28fa41dfca09e224093499e070675021fa18d38a9c77e9a7f400bcb29d84fe49e786f0ffe6d64b688c853cfc8e9b3710f8438f8fea5b2ba7c53738b087c5cc398b0b875dedbdec7e65e9616575230814c6282a9878a51102c41c1739c22d7752c377ae4f6d8921ff422dde569c51661f216f73ab4737b9c1d4c87d81922b28e56915c57c321c01d6a44a4%26cid%3DbPmngTY8BgZKwKx-O3NGz250325%26_v%3D2%26_r%3DACzGxr%26_vis%3D99345f89794c2a7fcf26bc8cc8044d442ea7b93f703c4b6877d1616a7889632f%26_vvs%3D2a63f2c606008c83befc082418f39ab2829d8ba68acd7c1b2abfb89750a6739c/transcode/c332851_480p.m3u8
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="LIVE EVENT",TVRI Sport HD
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 

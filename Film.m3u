@@ -38,6 +38,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SportTV", TNT SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="SportTV", SKY SPORTS F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
 
 =======================================================LIVE==========================================================================
 

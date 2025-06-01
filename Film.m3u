@@ -32,6 +32,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://truesportpur.ca/true-sport-bilingual-png" group-title="SportTV", TRUE SPORTS 2
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/liverpool_f.c.-logo_brandlogos.net_vr9dx.png" group-title="SportTV", LIVERPOOL TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
 
 =======================================================LIVE==========================================================================
 

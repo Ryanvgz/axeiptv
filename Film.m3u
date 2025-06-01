@@ -40,11 +40,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="SportTV", SKY SPORTS F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/49/2/ssc-tv-logo-png_seeklogo-498010.png" group-title="SportTV", SSC 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
 
 =======================================================LIVE==========================================================================
 
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",F1 SHANGHAI
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",GT WORLD
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 

@@ -30,6 +30,8 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",UFC
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
+=======================================================SALURAN TV==========================================================================
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MEKKAH LIVE 24/7
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MADINAH LIVE 24/7
@@ -40,12 +42,8 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV LOKAL",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTM3U
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title=""TV LOKAL",RCTI SD
 https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-
 #EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="TV LOKAL",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MMC TV
@@ -113,6 +111,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
 https://primatv.siar.us/primatv/live/playlist.m3u8
 
+=======================================================FILM==========================================================================
+
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="FILM",Captain America: Brave New World (2025)
 https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
@@ -143,6 +143,7 @@ https://files.dubbindo.site/upload/videos/2025/03/q36oEY1qn4kEwBGgcA75_14_29e74b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="FILM",Jack the Giant Slayer 2013 
 https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4fc0a7ea7fc70a19d42d90e18efa_video_720p_converted.mp4
 
+=======================================================SERIS==========================================================================
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Bersemangatlah Rumah Hantu
 https://files.dubbindo.site/upload/videos/2024/10/tSbTAeRNZNLUr1yGdOLE_06_c29e446b9dbe7b7fa0548205bebc3246_video_720p_converted.mp4
@@ -179,10 +180,6 @@ https://files.dubbindo.site/upload/videos/2024/04/VjtdwxNrI1UxnHloDdnt_15_dd914c
 https://files.dubbindo.site/upload/videos/2024/04/FNcxdB71g5bJUPpCYnT5_16_3e4907c03b2f3de65b2702d4ac168156_video_360p_converted.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 17
 https://files.dubbindo.site/upload/videos/2024/04/ZibYiVHoGzTBhSCbQA13_17_f144bc7df6593d62e6c80f958d41fcab_video_360p_converted.mp4
-
-
-
-
 
 EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 1 Subtitle Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

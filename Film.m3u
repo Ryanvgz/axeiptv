@@ -36,6 +36,8 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/wwe-logo_brandlogos.net_spkwl.png" group-title="SportTV", WWE NETWORK HD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SportTV", TNT SPORT 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
 
 =======================================================LIVE==========================================================================
 

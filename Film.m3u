@@ -1,1537 +1,381 @@
+
+#EXTM3U
+
+# ================= TV Indonesia  ===========================================================================
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV ID",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/987px-Indosiar_2015.svg.png" group-title="TV ID",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV ID",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV ID",RCTI HD
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="TV ID",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV ID",MNCTV
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV ID",GTV
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="TV ID",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TV ID",TVRI HD
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TV ID",TVRI KALSEL HD
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_900000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="TV ID",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/320px-Logo_Trans_TV.png" group-title="TV ID",TRANS TV
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png" group-title="TV ID",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png" group-title="TV ID",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/800px-TvOne_2023.svg.png" group-title="TV ID",TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="TV ID",INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="TV ID",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png" group-title="TV ID",NET TV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX692aJjM9sKUIJcfy1N2OxKFI4o3GlUKQFA&s" group-title="TV ID",MOJI TV
+https://cdn11jtedge.indihometv.com/joss/134/ochannel720/chunklist_w131193813_b1044100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV ID",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png" group-title="TV ID",NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="TV ID",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV ID",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="TV ID",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg/1200px-Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg.png" group-title="TV ID",KEMENKES TV
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png" group-title="TV ID",TABALONG TV
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV ID",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1239458707/duta_400x400.png" group-title="TV ID",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+# =================================================== TV Olahraga =========================================================================
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="SportTV",Bein SPORT xtra
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="SportTV",TVRI Sport HD
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="Olahraga", TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="SportTV",DAZN HELDINNEN
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="SportTV",DAZN WOMEN FOOTBALL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN HELDINNEN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN WOMEN FOOTBALL
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="SportTV",DAZN RINGSIDE
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SportTV",TEN SPORT HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN RINGSIDE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Olahraga", TEN SPORT HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SportTV",BEIN SPORT 1 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SportTV",BEIN SPORT 1 UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SportTV",BEIN SPORT 1 AR
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="SportTV",SONY TEN HD 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="SportTV",SONY TEEN 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="SportTV",SONY TEEN 2 HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Olahraga", Bein SPORT xtra SP
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Olahraga", Bein SPORT xtra EN
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Olahraga", Bein SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Olahraga", Bein SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Olahraga", Bein SPORT 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="Olahraga", SONY TEN HD 1
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="Olahraga", SONY TEEN 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="Olahraga", SONY TEEN 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SportTV",SONY TEEN 3 HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="Olahraga", SONY TEEN 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SportTV",SONY TEEN 4 HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="Olahraga", SONY TEEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902" group-title="SportTV",SONY TEEN 5 HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902" group-title="Olahraga", SONY TEEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/07/20250407040010992274_63.png" group-title="SportTV",REDBULL TV
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/07/20250407040010992274_63.png" group-title="Olahraga", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQFk5Zfkdv3w3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1644866702756?e=2147483647&v=beta&t=xHiVYHFVJs1GLD3yOmJOgCuyUoLVQnBNo7BIBVTMnfE" group-title="SportTV",BILLIYARD TV
+
+#EXTINF:-1 tvg-logo="https://ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg" group-title="Olahraga", BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://truesportpur.ca/true-sport-bilingual-png" group-title="SportTV", TRUE SPORTS 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/liverpool_f.c.-logo_brandlogos.net_vr9dx.png" group-title="SportTV", LIVERPOOL TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/wwe-logo_brandlogos.net_spkwl.png" group-title="SportTV", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SportTV", TNT SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="SportTV", SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/49/2/ssc-tv-logo-png_seeklogo-498010.png" group-title="SportTV", SSC 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
 
-=======================================================LIVE==========================================================================
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Real_Madrid_TV_ES_logo_v2.png" group-title="Olahraga", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
-#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",F1 SHANGHAI
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
-#EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/live-stream-logo-design-template-734b190682052e1a5f76a413c7f751ba_screen.jpg?ts=1738314761" group-title="Live main event",GT WORLD
-https://fhlsport121.fhs36f7.xyz/token-LEZ%2Bn%2BacKPOG5WUqx%2FY6yGPWlMODhi7jPSOqwqdGGTOksOWfHUFdDoIrpBVAW05JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rronq644nUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/3x_604429.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" group-title="Olahraga", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-=======================================================SALURAN TV==========================================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MEKKAH LIVE 24/7
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="TV LOKAL",MADINAH LIVE 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742139602/ei/cpzWZ5uOJ8_o7OsPxJe2iQM/ip/2001%3A448a%3A602c%3A38d%3A48b9%3A28b7%3Ab83f%3A413d/id/j_JS9cYi234.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AccgBcPWZnGE7ZS2p7AoNE1wpHnfXvHBFcKYHjS821gExxm6r7lnhS1fmtFV0d7RXsHfa3kh6g/spc/_S3wKh6_EyCB-3ujokjRag911oQFb4Y4-leF6akKtUuF9lBrbAUf0g-IIFuE9hBCUg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUCMXeY52kAmSOuOqx8kRS-c5wVL8HzEod0MzRFmv7HQCIQCcYetalEkCmdiHC2_7lEKbtK8A5e_IkDtJzMGMGP45Ug%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/987px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV LOKAL",RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV LOKAL",RCTI HD
-https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="TV LOKAL",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MMC TV
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV LOKAL",Global TV
-https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="TV LOKAL",KOMPAS-TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TV LOKAL",TVRI HD
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="TV LOKAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="TV LOKAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/320px-Logo_Trans_TV.png" group-title="TV LOKAL",TRANS TV
-https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/320px-Logo_Trans_TV.png" group-title="TV LOKAL",TRANS TV
-https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png" group-title="TV LOKAL",CCN-NEWS TV
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png" group-title="TV LOKAL",CNBC TV
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/800px-TvOne_2023.svg.png" group-title="TV LOKAL",TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="TV LOKAL",INEWS TV
-https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="TV LOKAL",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png" group-title="TV LOKAL",MDTV (NET TV)
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png" group-title="TV LOKAL",MDTV (NET TV) 2
-https://cdn13jtedge.indihometv.com/joss/133/net/chunklist_w677294607_b1544100_sleng.m3u8?enc=q_ric1LKSg9ubICfmhi5iQ&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlMTg3Nzc2Ny0yYmNhLTZmYTVmLWU1NmExNDc1OGVlYSIsImVtYWlsIjoiaHJ5YW5ub3JAZ21haWwuY29tIiwibG9naW5TdGF0dXMiOnRydWUsInN1YnNjcmliZXJfaWQiOiI2NjMxMDE5IiwiZnVsbG5hbWUiOiJocnlhbm5vciIsImRldmljZUlkIjoiWjJWMFgyUmxkbWxqWlY5cFpId3hPVE11TVRnMkxqUXVNVFEzTFRZM1JESTVOME0wUXpVeVJqZz0iLCJpZCI6MTQzOTc2MiwiZXhwIjoxNzQyMTIyMzM5LCJpYXQiOjE3NDIxMTg3MzksImlzcyI6IlVzZWVUVkdPIn0.ay6aLHYA4PyTNFcDX8LqHZ7vu6YjaOqe2OApPSNp-qznJJgFhnaowjQzq8anD8OBMkZEcVswO0QgUxZk7RbEqzXGhArk7u4G9A33KxoDfCgbsYaxA5k1EyMiUNBzTCdINOf5H82sF0ZPO1VScb4bqxevzJdPqzhGj5-xu92c4y8EYkNL2ogOepn4fKV_vzXPWAVOcyoRE1bXX54kqpHfkRzxsLL3xyfpbGMMcGImezB_-iZ9_dsM658mvTLVqwzyTDK2HoK9uTV_zm3T3hyfwR3hZYIxdWomz0tmRdgLtz2nnvOdsbeUfWlNgC6KPD3TVakIE4hgbNYtKQgzAtwgoX-IowbMNmmd_dIkMoFv2b0x9Y1U3-f-xc5P-XqFVaUwnOTOsEr69dCIdUOZ08TEBxvLX6LUFRPzKDpbnz4SWFJHAJFmoIIvON1P6-v4eBaLSps73Ym8Nqqi1iXI84bJweNGuBKwg9GlCTBwgvc-OCU0pJvgnfsFQ9RIdIU9Kl1pVrpbpoDoiv-N3zcjg6iASX94WX6OkLPYVubR5gzJwyDw70QxXvoMj5Tb7r0j_Y-aMsyJUPU1GuO5Mt7Yd7EH1o7oPV4nqMan8Op49B8DKu_y2djN5tim64lXRgVQcAMCZT3EUqh7P-cd3zyKHD4K7wJq5z462UDSzbL0vXp9d9I&exp=1742128769
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX692aJjM9sKUIJcfy1N2OxKFI4o3GlUKQFA&s" group-title="TV LOKAL",MOJI TV
-https://cdn11jtedge.indihometv.com/joss/134/ochannel720/chunklist_w131193813_b1044100_sleng.m3u8?enc=7FZiRRm3ILgC4FCog4P2Eg&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlMTg3Nzc2Ny0yYmNhLTZmYTVmLWU1NmExNDc1OGVlYSIsImVtYWlsIjoiaHJ5YW5ub3JAZ21haWwuY29tIiwibG9naW5TdGF0dXMiOnRydWUsInN1YnNjcmliZXJfaWQiOiI2NjMxMDE5IiwiZnVsbG5hbWUiOiJocnlhbm5vciIsImRldmljZUlkIjoiWjJWMFgyUmxkbWxqWlY5cFpId3hPVE11TVRnMkxqUXVNVFEzTFRZM1JESTVOME0wUXpVeVJqZz0iLCJpZCI6MTQzOTc2MiwiZXhwIjoxNzQyMTIyMzM5LCJpYXQiOjE3NDIxMTg3MzksImlzcyI6IlVzZWVUVkdPIn0.ay6aLHYA4PyTNFcDX8LqHZ7vu6YjaOqe2OApPSNp-qznJJgFhnaowjQzq8anD8OBMkZEcVswO0QgUxZk7RbEqzXGhArk7u4G9A33KxoDfCgbsYaxA5k1EyMiUNBzTCdINOf5H82sF0ZPO1VScb4bqxevzJdPqzhGj5-xu92c4y8EYkNL2ogOepn4fKV_vzXPWAVOcyoRE1bXX54kqpHfkRzxsLL3xyfpbGMMcGImezB_-iZ9_dsM658mvTLVqwzyTDK2HoK9uTV_zm3T3hyfwR3hZYIxdWomz0tmRdgLtz2nnvOdsbeUfWlNgC6KPD3TVakIE4hgbNYtKQgzAtwgoX-IowbMNmmd_dIkMoFv2b0x9Y1U3-f-xc5P-XqFVaUwnOTOsEr69dCIdUOZ08TEBxvLX6LUFRPzKDpbnz4SWFJHAJFmoIIvON1P6-v4eBaLSps73Ym8Nqqi1iXI84bJweNGuBKwg9GlCTBwgvc-OCU0pJvgnfsFQ9RIdIU9Kl1pVrpbpoDoiv-N3zcjg6iASX94WX6OkLPYVubR5gzJwyDw70QxXvoMj5Tb7r0j_Y-aMsyJUPU1GuO5Mt7Yd7EH1o7oPV4nqMan8Op49B8DKu_y2djN5tim64lXRgVQcAMCZT3EUqh7P-cd3zyKHD4K7wJq5z462UDSzbL0vXp9d9I&exp=1742127764
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV LOKAL",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png" group-title="TV LOKAL",NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/800px-Logo_BeritaSatu_Media.png" group-title="TV LOKAL",IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="TV LOKAL",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-logo="AXE" group-title="TV LOKAL",IDNX TV
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Symbol_GarudaTV_Merah_2023.svg/revision/latest/scale-to-width-down/250?cb=20240508112115" group-title="TV LOKAL",GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV LOKAL",MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="TV LOKAL",INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg/1200px-Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg.png" group-title="TV LOKAL",KEMENKES TV
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png" group-title="TV LOKAL",TABALONG TV
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
-https://primatv.siar.us/primatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="TV LOKAL",AXN INDIHOME
-https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/custom-upload/brand-center/biznet_iptv_logo_full_colors.jpg" group-title="TV LOKAL",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="TV LOKAL",MY CENEMA
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="TV LOKAL",MY KIDZ HD
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
-
-=======================================================SERIS==========================================================================
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Bersemangatlah Rumah Hantu
-https://files.dubbindo.site/upload/videos/2024/10/tSbTAeRNZNLUr1yGdOLE_06_c29e446b9dbe7b7fa0548205bebc3246_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Ayah Sang Pelari
-https://files.dubbindo.site/upload/videos/2024/10/xZeUpoc4WeMV43sFi4bh_07_f5105670b9085e9cc254fad0ec1b003d_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Peternak Makanan Manis
-https://files.dubbindo.site/upload/videos/2024/10/tkXo7Iv3Yp4ZmsI4zDiB_08_fc068c19e318a7d9e61dc274f3587866_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Perang Luar Angkasa di Langit-Langit Rumah
-https://files.dubbindo.site/upload/videos/2024/10/7ZGW27llWRi7Eg4wIRho_09_727814e931c42a0606b2dcbb8b8586cd_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Kamera Peran Terbaik
-https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49551fea78133709d983744cf9ce_video_720p_converted.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 1
-https://files.dubbindo.site/upload/videos/2024/03/A34gfl6vhjucnkmchLPw_18_4253bfb2caf6c5492b0fb8dfc0794f3c_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 2 -3
-https://files.dubbindo.site/upload/videos/2024/03/3Cz5T8jT4rx4PgDSLVJY_18_974758a328a0bdcba83d923fea0d7748_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 4 -5
-https://files.dubbindo.site/upload/videos/2024/03/EaUtCc8NdG32xEdygoj7_18_58384d938c48033323849e8588e55fb0_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 6 -7
-https://files.dubbindo.site/upload/videos/2024/03/BVWLLPOApGBOqxJiswAC_18_51555620af8263f63712247d4da35b6b_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 8 -9
-https://files.dubbindo.site/upload/videos/2024/03/2B3jXh6yc7RACzfq9oTs_19_e9954ade81505ad81878bb932ff5f562_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 10
-https://files.dubbindo.site/upload/videos/2024/03/iPlefx1hMeceMmQ7F3Cd_20_4bc66f2bfaf5192a1d054bbbcc29125e_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 11
-https://files.dubbindo.site/upload/videos/2024/03/BkZI3jXu7Wo9gPTUNAsy_21_d87846baa23140cc4d5ff979ea38bc01_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 12
-https://files.dubbindo.site/upload/videos/2024/03/esoL2m8zPNnBjday5ZFi_24_669301d1bd1852cb9565d29a45aefd7e_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 13-14
-https://files.dubbindo.site/upload/videos/2024/04/bEGZkrTt5bsADg5zQKe7_14_65c67bcd379f47c60432c8d1909e36fd_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 15
-https://files.dubbindo.site/upload/videos/2024/04/VjtdwxNrI1UxnHloDdnt_15_dd914c294474c628296bbd36d3fd16eb_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 16
-https://files.dubbindo.site/upload/videos/2024/04/FNcxdB71g5bJUPpCYnT5_16_3e4907c03b2f3de65b2702d4ac168156_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",OMAR (Umar bin Khattab) Episode 17
-https://files.dubbindo.site/upload/videos/2024/04/ZibYiVHoGzTBhSCbQA13_17_f144bc7df6593d62e6c80f958d41fcab_video_360p_converted.mp4
-
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 1 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1Hlr3ELgWthOlByCLXzMfxUFFRR3TRYcm&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 2 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s3.acefile.co/V3/files/a68288b8206d23ea6b2361aeadd6b923.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 3 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1MMfCI9O_kop2-TQs5CqvcEqvK36BZ_7W&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 4 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1RvuaqKAzdvZYOLepNloaMatncvG0YpGe&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 5 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-5-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 6 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-6-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 7 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-7-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 8 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-8-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 9 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-9-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 10 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-10-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 11 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-11-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 12 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-12-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 13 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-13-MP4HD-SAMEHADAKU.CARE.mp4
-EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",One Piece: Gyojin Tou-hen Episode 14 Subtitle Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s0.wibufile.com/video/OPGTh-14-MP4HD-SAMEHADAKU.CARE.mp4
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1Ko-NyOH5Tf9U_j5f87dfR6Ebl4RZT2oT&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1ux-p0KBNFi2jxb2UR-wxHHBv8D6kOycz&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1xncBZWjMH7XmUytBFUZx5HipBJ3lAwr2&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1FnNC0GEBJyasaJNDb1kqu9ca8-60Pkvt&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1_yoPuPUQQOJ-E3DK_-_lGH_jf-mT2hi3&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1qXeX7ixb6vC-Bnb051jbkcc9YAda2MFW&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1Wqq0zOuiFOrlQu0og81-RY2u4fRMyumJ&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8jah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E8 END
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1BOQTASWP-GtURmAONaYGYocwUDrB10kN&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-/84/Poster_Induk_Ga
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Poster_Kang_Mak.jpg",KANGMAK from PEEMAK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HYZl3th7df3iY8lwMmcW3Hewvkupwj62&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8a/Poster_Sekotengs_%282024%29.jpg",Sekoteng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://macdn.hakunaymatata.com/resource/64cf961d389ccb1fc91d0123e100ed2e.mp4?Expires=1743772343&Signature=cLiFKU~Trjn4qDlP6Vlcv7NV6uYETpZqBq1MlV3K5Pno35DL7~qURE1KW4FT7qI27I1BRbY2~897F5I9NYNIjPPG83rbXcbLtytGr3r9Z1O0jLNPJ0rgD5z0ZQq5eA3zHES3Kr0sd19jOqDCl8ZN33~CBJPt-pirXzkkKa4XbeqDQkuOVfuoSUrLc11WIPnrKLLTymmmldNKYoJkmK4qIAWPAMsk~Tf53OOpd-44kSKIPBWUWlX9jfoiFz1ZMbJAdqK1Nt3H6uin4cvreu2b2eGKAJxX14SBHnIZK1kzQYc8z7eN5fM9rUOMIYb-yxhfW5DBppSMadlKdKcKkeWFug__&Key-Pair-Id=KMHN1LQ1HEUPL
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/b8393c5bf96f5f09dddfbb133a420c8b/24/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/addded9a5efcba9169a8003864488d9a/24/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/327a7a9a0a65506fe18c2b07c280dff9/24/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/c169a228140a9cf3f8ec3bd2b7076f25/30/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/a53cc8211d0c1fc0589021f946159a5b/24/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/708b6b42dd899f96bf7ac27163efacf8/24/480.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz//yyy/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/5830f9714c25e178ace8561c5ff6807d/24/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/b09c7e53973e21e80a20bb3f4c48a3be/24/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/eb6eef19e48491bc0a5f72a6b22142b8/30/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/24173447dff736b274f0ae0b51db3055/30/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8
-
-
-<=============================================== VOD =====================================>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/330px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="Olahraga", ABU DHABI SPORTS
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+# <================== MOVIES =============================================================================>
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Video On Demand",Captain America: Brave New World (2025)
+#EXTINF:-1 tvg-id="dubID001" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Movies",Captain America: Brave New World (2025)
 https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5c0ab2ab8429fa760983336fb117d562d1c063f6f3bd25bd2f492bbd2972f3fc.png" group-title="Video On Demand",CEK TOKO SEBELAH 1
+#EXTINF:-1 tvg-id="dubID017" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFhMDk4OTctN2NhNC00YTk2LTk5ZmMtZDY2NzdlOWI1NWY0XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Shaolin Soccer (2001) Remastered Dub Indo
+https://files.dubbindo.site/upload/videos/2025/05/lOMB4VJUEXwozpU6ggCK_27_b2098cd2f2ac87ab3f750a98e7790ddc_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="dubID002" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5c0ab2ab8429fa760983336fb117d562d1c063f6f3bd25bd2f492bbd2972f3fc.png" group-title="Movies",CEK TOKO SEBELAH 1
 https://files.dubbindo.site/upload/videos/2025/06/8dGdBZXOOl13KckOHL1U_02_a799d243d3b3d5d8d2f71144d2530092_video_480p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://cinemags.org/wp-content/uploads/2022/11/Cek-toko-sebelah-2.png" group-title="Video On Demand",CEK TOKO SEBELAH 2
+#EXTINF:-1 tvg-id="dubID003" tvg-logo="https://cinemags.org/wp-content/uploads/2022/11/Cek-toko-sebelah-2.png" group-title="Movies",CEK TOKO SEBELAH 2
 https://files.dubbindo.site/upload/videos/2025/06/pMqLjxlBWdSqwRAeUQQj_02_1a637176001994c8cbca2bafc4125326_video_720p_converted.mp4
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="Video On Demand",Cars 3 (2017)
+#EXTINF:-1 tvg-id="dubID004" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="Movies",Cars 3 (2017)
 https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="Video On Demand",Cars 2 (2011)
+#EXTINF:-1 tvg-id="dubID005" tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="Movies",Cars 2 (2011)
 https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="Video On Demand",Cars (2006)
+#EXTINF:-1 tvg-id="dubID006" tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="Movies",Cars (2006)
 https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_Video On Demand.jpg" group-title="Video On Demand",Toy Story (1995)
+#EXTINF:-1 tvg-id="dubID007" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_Video On Demand.jpg" group-title="Movies",Toy Story (1995)
 https://cldup.com/iAs8qzOwTf8.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg" group-title="Video On Demand",Toy Story 2 (1999)
+#EXTINF:-1 tvg-id="dubID008" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Toy Story 2 (1999)
 https://files.dubbindo.site/uvideoweb/movie/Toy.Story.2.1999.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Toy_Story_3_poster.jpg" group-title="Video On Demand",Toy Story 3 (2010)
+#EXTINF:-1 tvg-id="dubID009" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Toy_Story_3_poster.jpg" group-title="Movies",Toy Story 3 (2010)
 https://files.dubbindo.site/uvideoweb/movie/Toy.Story.3.2010.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Toy_Story_4_poster.jpg" group-title="Video On Demand",Toy Story 4 (2019)
+#EXTINF:-1 tvg-id="dubID010" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Toy_Story_4_poster.jpg" group-title="Movies",Toy Story 4 (2019)
 https://files.dubbindo.site/upload/videos/2021/09/ToyStrory42019Bluray_18_xc2qnbaug8aq_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/07/06/1926831745.jpg" group-title="Video On Demand",Kromoleo (2024)
+#EXTINF:-1 tvg-id="dubID011" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/07/06/1926831745.jpg" group-title="Movies",Kromoleo (2024)
 https://files.dubbindo.site/upload/videos/2025/03/Uf127Xwkoj8dHRbxAJP1_16_a134ce3c889075239f420dbb84f40ad0_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/7/72420.jpg" group-title="Video On Demand",Doraemon Movie 15: Nobita to Mugen Sankenshi
+#EXTINF:-1 tvg-id="dubID012" tvg-logo="https://cdn.myanimelist.net/images/anime/7/72420.jpg" group-title="Movies",Doraemon Movie 15: Nobita to Mugen Sankenshi
 https://files.dubbindo.site/upload/videos/2022/05/T6Vdofgz4YrAGY6fD9jZ_05_cc6dd309f89570d8da40c00a468a7cd6_video_480p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_p1NOpV3aqI94O6MtkU7-2HCYlmC9ScBTg&s" group-title="Video On Demand",Doraemon Movie 14: Nobita to Buriki no Labyrinth
+#EXTINF:-1 tvg-id="dubID013" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_p1NOpV3aqI94O6MtkU7-2HCYlmC9ScBTg&s" group-title="Movies",Doraemon Movie 14: Nobita to Buriki no Labyrinth
 https://cldup.com/iZ9h9U5ciQZ.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Kuasa_Gelap.jpg" group-title="Video On Demand",Kuasa Gelap
+#EXTINF:-1 tvg-id="dubID014" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Kuasa_Gelap.jpg" group-title="Movies",Kuasa Gelap
 https://files.dubbindo.site/upload/videos/2025/03/4EjAPadpk1jlckpUixrU_17_bea4d4ac0e4419085898cc0cee43e3aa_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Nabire/o/1719483270051-f8728b17-28e9-4865-a7f0-6c77b123ddc8-1/t822ugzw51re7b1.jpeg" group-title="Video On Demand",Dosen Gahib:Sudah Atau Mati
+#EXTINF:-1 tvg-id="dubID015" tvg-logo="https://cdn.rri.co.id/berita/Nabire/o/1719483270051-f8728b17-28e9-4865-a7f0-6c77b123ddc8-1/t822ugzw51re7b1.jpeg" group-title="Movies",Dosen Gahib:Sudah Atau Mati
 https://files.dubbindo.site/upload/videos/2025/03/q36oEY1qn4kEwBGgcA75_14_29e74b7620fc41f977d1dab17b44af8e_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="Video On Demand",Jack the Giant Slayer 2013 
+#EXTINF:-1 tvg-id="dubID016" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="Movies",Jack the Giant Slayer 2013
 https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4fc0a7ea7fc70a19d42d90e18efa_video_720p_converted.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",Bullet Train Explosion (2025)
-https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/OQIDQSO8IDkS0hkzG8aY3A6O1a.jpg",Lifeline (2025)
-https://cloud.hownetwork.xyz/xxx/LhEvKykQGSRvY0d-dh0hPSAcJREdJkZ5ITBEdSUI/32/480.m3u8
-
-https://sskt.pouloszcleed.sbs/v4/lf/epqoc1/cf-master.txt?v=1744660858|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wmSCSKUI15Q2pApB5f3oEl0EQuE.jpg",Hell of a Summer (2025)
-https://cloud.hownetwork.xyz/xxx/Kh0lImgWEWwjfAQ5Ll0zKm9KeXxwVAAkIDUbExtvNz0hSygscEs/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg",🔵 Last Breath (2025)
-https://cloud.hownetwork.xyz/xxx/Lhk6OmgbBSQjJR9hcQBkbW8aJTs3GA4eGg5EKHpTYj52Sw/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/Last.Breath.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
-https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
-https://sskt.griseldakro.sbs/v4/ty/midk9h/cf-master.txt?v=1744698131|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",Locked (2025)
-https://cloud.hownetwork.xyz/xxx/LhcqJSAdWnNyY0JhNFU0PC4nERF8G0Z5JjcRLQ/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vmTg5jt6sXsv6GNcAnwqclarFgQ.jpg",Ash (2025)
-https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",Pangolin: Kulu’s Journey (2025)
-https://cloud.hownetwork.xyz/xxx/MhknKSoVHi9vOgIgNkN7Mi0NOyAgAFpzcmNCYTRVNDwuJxERdRxGeCBgQXw/32/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dyRzD90yGBRfRuWyRoGdPbqVJk2.jpg",September Says (2025)
-https://cloud.hownetwork.xyz/xxx/MR05OiAUFSQwfAQtOkN7anJKfGMyHBUlLg4vEyJSZWh0Hi12/32/480.m3u8
-https://cdn4.turboviplay.com/data1/68079902bd43c/68079902bd43c720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/PcB8WoJmw4JcgJFSkeM6Wsq3hm.jpg",Secret: Untold Melody (2025)
-https://cloud.hownetwork.xyz/xxx/MR0qPCANWjQsJRggJx07PS4XLTdoS0dzd3wAKSFUOgcaJy14JEESJ3cw/32/480.m3u8
-https://cdn4.turboviplay.com/data1/68071f2736f17/68071f2736f17720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/n9eNX3F6qEoNpPId0Nj29QLbYmE.jpg",Darkest Miriam (2025)
-https://cloud.hownetwork.xyz/xxx/Jhk7JSAKA2wvOAUlIl17anJKfGMyHBUlLg4vE3RVYDtwGit5/32/480.m3u8
-https://cdn1.turboviplay.com/data1/6806082a6aee0/6806082a6aee0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1n7CuKBshPOBtWFg5xomRr19Ydt.jpg",Oklahoma City Bombing: American Terror (2025)
-https://cloud.hownetwork.xyz/xxx/LRMlLy0WGiBvMh44Oh00Ny8aICAiVBYsJyMeLyJeeywnCjshN1RFcXBkWjsmUjI0HSAWKHcdRXh7MxE/32/480.m3u8
-https://cdn1.turboviplay.com/data1/680487efc077c/680487efc077c720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg",It Feeds (2025)
-https://cloud.hownetwork.xyz/xxx/KwxkKCAcEzJvY0d-dh0hPSAcJREdJkF0cTQSKnIF/32/480.m3u8
-https://cdn1.turboviplay.com/data1/6804623d3481f/6804623d3481f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",iHostage (2025)
-https://cloud.hownetwork.xyz/xxx/KxAmPTEYECRvY0d-dh0hPSAcJREdJhQgemBDf3cH/32/480.m3u8
-https://cdn1.turboviplay.com/data1/680447636181b/680447636181b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8R8cOSJ6Z4zH4TIbZY5va9OGgr7.jpg",Strange Memories (2025)
-https://cloud.hownetwork.xyz/xxx/MQw7LyseEmwvNBojMVkzK29KeXxwVAAkIDUbExtvN2h6GXB3J0E/32/480.m3u8
-https://cdn1.turboviplay.com/data1/680405a88e319/680405a88e319720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",Sampung Utos Kay Josh (2025)
-https://cloud.hownetwork.xyz/xxx/MRkkPjAXEGw3JRg_bls3IW8SJj0tVEVxcGRaOyZSMjQdIBZ9dkxGcXFoFQ/32/480.m3u8
-https://cdn1.turboviplay.com/data1/6803ffda98d4b/6803ffda98d4b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",Chhaava (2025)
-https://cloud.hownetwork.xyz/xxx/IRAhLyQPFmxwYUV5bkczOiYUFhYaQBN4JjRCKic/32/480.m3u8
-https://cdn1.turboviplay.com/data1/68027db0ce5df/68027db0ce5df720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fBzwzRb4r3qNqOOwPsyyKfoUNq5.jpg",Gothic Slayers (2025)
-https://cloud.hownetwork.xyz/xxx/JRc9JiwaWjIuMA4pMUN7anJKfGMyHBUlLg4vE3FSb2t2QSws/32/480.m3u8
-https://cdn1.turboviplay.com/data1/68026f2585e10/68026f2585e10720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",🟠 The Accountant 2 (2025)
-https://s9dz.mooringcarmel.sbs/v4/m9/5wikyj/cf-master.txt?v=1744866994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg",🟠 Rule Breakers (2025)
-https://sojg.mooringcarmel.sbs/v4/ty/rq1xh9/cf-master.txt?v=1744822539|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qysOAJmH1iZgIPAot2OYt782dQ0.jpg",Distort (2025)
-https://cloud.hownetwork.xyz/xxx/JhE6OioLA2xwYUV5bkczOiYUFhYaQEB2IWBALiA/32/480.m3u8
-https://cdn1.turboviplay.com/data1/67ff7592092d6/67ff7592092d6720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lx5gOA5TQJITbbp7tnnALMDPNgc.jpg",🟠 Invasive 2: Getaway (2025)
-https://s9dz.mcgarrydvan.sbs/v4/36/onwaa9/cf-master.txt?v=1744732403|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mJU57lVU2fB5mhwg6BHCMjoLu8D.jpg",🟠 Eric LaRue (2025)
-https://skra.yevettesh.sbs/v4/np/pk3c3f/cf-master.txt?v=1744732683|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AubrKIGSAiaSbdoLlEJIqpJUoZs.jpg",🟠 Undercurrent: 12 Hours of Terror (2025)
-https://sojg.amberwels.sbs/v4/xq/3vgx5i/cf-master.txt?v=1744711274|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",The Woman in the Yard (2025)
-https://cloud.hownetwork.xyz/xxx/NhAsYzIWGiAsfB4ibkQ-PW8BKDwhVEVxcGRaOyZSMjQdIBYockxAdSdmTw/32/480.m3u8
-https://cdn1.turboviplay.com/data1/67ffdb3f676ab/67ffdb3f676ab720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg",🔵 Flight Risk (2025)
-https://cloud.hownetwork.xyz/xxx/JBQgKS0NWjMrIhxhcQBkbW8aJTs3GA4eGg5DeXcHMj1zGQ/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/Flight.Risk.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/67fe00bc89da8/67fe00bc89da8720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9N8kFzSa71G5nCoNiNYnYSQBUAb.jpg",Grace Point (2025)
-https://cloud.hownetwork.xyz/xxx/JQooLSBUBy4rPwNhcQBkbW8PLCwhFSgZHWlDf3oJYT10/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Grace.Point.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/b5F1NFPn7sNFFPFN6Kk5kOxPCwK.jpg",Andrew Schulz: Life (2025)
-https://cloud.hownetwork.xyz/xxx/IxYtPCAOWjIhOQIgOR06MSQdZHx1S0JsNTQVKC9vDgcmGSx8IE0Vcg/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Andrew.Schulz.Life.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fceOcpao9ElxZUdb9Y7zKKgFk5X.jpg",Pets (2025)
-https://cloud.hownetwork.xyz/xxx/Mh09PWhLR3N3fAApIVQ6BxonfnwkG0dycmk/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Pets.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",Tyler Perry’s Duplicity (2025)
-https://cloud.hownetwork.xyz/xxx/b7237932a82dc5cbec394800d1f386f3/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/06/Tyler.Perrys.Duplicity.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/61agGgHHhuc5pFYU5PD3olIoRvd.jpg",🟠 Desert Lone Hero (2025)
-https://skra.mooringcarmel.sbs/v4/sc/kd5mmx/cf-master.txt?v=1744415074|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg",Shadow of God (2025)
-https://cloud.hownetwork.xyz/xxx/MRAoKioOWi4kfBAjJx1kaHBNZDkgGxMtHQkoeXYCMmp1Gnk/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Shadow.of.God.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg",Gunslingers (2025)
-https://cloud.hownetwork.xyz/xxx/JQ0nPSkQGSYnIwRhcQBkbW8PLCwhFSgZHTBPKXcBZDl1/32/480.m3u8
-https://cdn1.turboviplay.com/data1/67fb99a6791a7/67fb99a6791a7720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",Home Sweet Home: Rebirth (2025)
-https://cloud.hownetwork.xyz/xxx/KhckK2gKACQnJVokLF0zdTAdKyc3DR9scGFFeW5HMzomFBYWGkxDJSZgTn92/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Home.Sweet.Home.Rebirth.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pymBV1KTRqda9I3HkVdB08ZiUyZ.jpg",Legends of the Condor Heroes: The Gallants (2025)
-https://cdn1.turboviplay.com/data1/680669f2e9f93/680669f2e9f93720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",The Alto Knights (2025)
-https://cloud.hownetwork.xyz/xxx/NhAsYyQVAy5vOhklJFgiK29KeXxwVAAkIDUbExtvbzt1QXF7fEA/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/The.Alto.Knights.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ue3mp7z2EdoZuumtZNj2xEE4CN4.jpg",🟠 The Wizard of the Emerald City (2025)
-https://sskt.biggsupndfun.sbs/v4/ty/s9coet/cf-master.txt?v=1744629543|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/i7cDPuT59TuV6hjxcrPkQONkd5Q.jpg",Frozen Hot Boys (2025)
-https://cloud.hownetwork.xyz/xxx/dc9b2f505fa9ad29e3367edba0a859b3/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/06/Frozen.Hot.Boys.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg",G20 (2025)
-https://cloud.hownetwork.xyz/xxx/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/06/G20.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vSU2yBC8zoYF9zYg9bt1Ms6YyFN.jpg",🔵 William Tell (2025)
-https://stream.hownetwork.xyz/xxx/william-tell-2025-bluray_X_7fe1bbe6/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/William.Tell.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",🔵 Heart Eyes (2025)
-https://stream.hownetwork.xyz/xxx/heart-eyes-2025-bluray_X_860b6b8b/26/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6Ms6av0iGFeVSK5leKdOCFjv9qC.jpg",Crazy Texas (2025)
-https://cloud.hownetwork.xyz/xxx/IQooNDxUAyQ6MARhcQBkbW8PLCwhFSgZHWgTf3tRZGAh/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/08/Crazy.Texas.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/psuVvSq45FWCrS4GD8HSF9cL2B8.jpg",Silent Roar (2025)
-https://stream.hownetwork.xyz/xxx/silent-roar-2025-webdl_X_de406f3b/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/Silent.Roar.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",Peter Pan’s Neverland Nightmare (2025)
-https://stream.hownetwork.xyz/xxx/peter-pans-neverland-nightmare-2025-webdl_X_7b321be7/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/Peter.Pans.Neverland.Nightmare.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",Night of the Zoopocalypse (2025)
-https://cloud.hownetwork.xyz/xxx/c9c01d9846a1a0373930f311fdefdcd6/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/Night.of.the.Zoopocalypse.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zKnLPRsBXHTwkrHQhVVFZXl4DxS.jpg",Novocaine (2025)
-https://cloud.hownetwork.xyz/xxx/95539faf69a593d5737411ba4f48d315/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/Novocaine.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67f77879a10d5/67f77879a10d5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",🔴 A Minecraft Movie (2025)
-https://cloud.hownetwork.xyz/xxx/I1UkJyscFDMjNwNhLl8gMSdVe353TFopJjIWIRxoCWt6Tyt6fEhG/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/08/A.Minecraft.Movie.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",In the Lost Lands (2025)
-https://cloud.hownetwork.xyz/xxx/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/In.the.Lost.Lands.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67f61b449494b/67f61b449494b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ohESp5Nw49OD4ExCeNYCEIGX2iq.jpg",825 Forest Road (2025)
-https://cloud.hownetwork.xyz/xxx/947b405c99271b01b1d86e6804d9eef2/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/825.Forest.Road.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",Opus (2025)
-https://cloud.hownetwork.xyz/xxx/93a7f23252a682fced69248f875d72c1/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/Opus.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",Mickey 17 (2025)
-https://cloud.hownetwork.xyz/xxx/809b13488e01e8c348f949128d837a63/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/frjVyx5Pu2j3Dj1hTqUzbHSa6d9.jpg",A Knight’s War (2025)
-https://cloud.hownetwork.xyz/xxx/I1UiICweHzUxfAAtMR1kaHBNZDkgGxMtHQkodHEFNWl0SSo/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/A.Knights.War.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tEk8ZlboBcPLwO1npch7pQSu0Br.jpg",Mouse Of Horrors (2025)
-https://cloud.hownetwork.xyz/xxx/670955ae75c5d6ef4dbd43146e310252/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Mouse.of.Horrors.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uKOCOfTg8NWFiFudcHytxYLKrgY.jpg",Womb (2025)
-https://cloud.hownetwork.xyz/xxx/8a0b77423d53884901dfe9fc8fa5212d/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/Womb.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/eanTANOpYFy2Ir692wqUwdeZS6T.jpg",King of Painting (2025)
-https://cloud.hownetwork.xyz/xxx/08053ece5bfff64358c044b06a8c09dd/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h0bu4miAIDY3eKhqtHlGslbeggG.jpg",Bleed for Past (2025)
-https://cloud.hownetwork.xyz/xxx/9d010da67179608d78d6c8b32f93f0a7/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/03/Bleed.for.Past.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/04/Video On Demand-the-ranger-2025-lk21-d21.jpg.webp",The Ranger (2025)
-https://cloud.hownetwork.xyz/xxx/4e1821cfb200664620967f0597923815/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fulEdvN5u6mIpwig7HcBnYpkJEQ.jpg",The Last Supper (2025)
-https://cloud.hownetwork.xyz/xxx/a421a2a35949ca60d49f74291b45838d/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/02/The.Last.Supper.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2QAgOQWcdQLnbki5V2Sjn1tcnHS.jpg",Banger (2025)
-https://cloud.hownetwork.xyz/xxx/53e1546a3fed6fd9068e785ae8e01bee/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Banger.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/o26avHeCyBUHDoHBYCaflWT6heZ.jpg",Shiver Me Timbers (2025)
-https://cloud.hownetwork.xyz/xxx/f9910a67b8ee1077e84a4f3b95525942/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Shiver.Me.Timbers.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",Black Bag (2025)
-https://cloud.hownetwork.xyz/xxx/7743ec6faf452cda305213b05647bcb5/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Black.Bag.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",🔵 Companion (2025)
-https://cloud.hownetwork.xyz/xxx/75de8675f298471881971b6b519b6b49/31/480.m3u8
-https://seneng.org/v/driveid-196889-webrip-1080-terbit21-com-companion-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4pl2nmEyIFjq1ZZdTuuEeRGsUf6.jpg",The Forest Clown (2025)
-https://cloud.hownetwork.xyz/xxx/162e60b9f89d03e41975d2d429524c4c/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/The.Forest.Clown.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4Nf52vNlQNJpSt2uFodMCdz99Dy.jpg",Fire (2025)
-https://cloud.hownetwork.xyz/xxx/28800bccbe4fa7d99c55cc01ca8a99a4/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Fire.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",🔵 Love Me (2025)
-https://cloud.hownetwork.xyz/xxx/26af53a153c5983f064b6ae1916d1bf6/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/Love.Me.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67ed826d1017d/67ed826d1017d720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg",Renner (2025)
-https://cloud.hownetwork.xyz/xxx/3309db7444cdff7173aaf1db0c37c3ff/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/Renner.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67ed70eac0735/67ed70eac0735720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2w5emjdp2eTwNbU7eMBhsOwOnA0.jpg",The Rule of Jenny Pen (2025)
-https://cloud.hownetwork.xyz/xxx/f5192564fd1f0cac82ee4591942b6a4c/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/The.Rule.of.Jenny.Pen.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67ed52774a050/67ed52774a050720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xuiOnu5HxFb67F0fm8mswtIppAZ.jpg",🔵 Love Hurts (2025)
-https://cloud.hownetwork.xyz/xxx/dce6782750e7ba65a854cd63c559575e/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/14/Love.Hurts.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67ed3fbe5ed6b/67ed3fbe5ed6b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fXkKcPshOZHdHgPvSvuYFmDGDFI.jpg",Babah (2025)
-https://cloud.hownetwork.xyz/xxx/59033d8065a7d5c03e761a3c5438a103/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/Babah.2024.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67ecf39e9fc66/67ecf39e9fc66720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5fg98cVo7da7OIK45csdLSd4NaU.jpg",The Life List (2025)
-https://cloud.hownetwork.xyz/xxx/b3adc5e80e4d0c9c91649a628c35f858/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/15/The.Life.List.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e776952b7da/67e776952b7da720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/srOAe7Xe2KN4QZDSoALmE9T8Hh6.jpg",Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip (2025)
-https://cloud.hownetwork.xyz/xxx/b4d9f181961323e2a449f4f52979e48a/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/15/Alexander.and.the.Terrible.Horrible.No.Good.Very.Bad.Road.Trip.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e75f2a28bfa/67e75f2a28bfa720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2jskL5eOFTQknpRalJ4chVYyuFo.jpg",Bring Them Down (2025)
-https://cloud.hownetwork.xyz/xxx/6dbfa3ee7082860d5d5efed908d3d73a/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/15/Bring.Them.Down.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e756e63d30b/67e756e63d30b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mtYwRRc7fKt16o0qZJxmBptcdzT.jpg",Carjackers (2025)
-https://cloud.hownetwork.xyz/xxx/763e334d2607a73d656280768c9df082/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/15/Carjackers.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e74ebb83a9a/67e74ebb83a9a720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ow9HFxqhclSegC7EMXKszlQ2f9T.jpg",Journey to the West: The Helltown of Heaven (2025)
-https://cloud.hownetwork.xyz/xxx/c4228fea503d14d7ce43703d418aacd3/31/480.m3u8
-https://cdn4.turboviplay.com/data1/67e6d29249600/67e6d29249600720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025)
-https://cloud.hownetwork.xyz/xxx/a2501462f7d8fe5794b785a68a0fbe67/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/14/Holland.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e6b08b44f59/67e6b08b44f59720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",The Monkey (2025)
-https://cloud.hownetwork.xyz/xxx/381da17a0c75504209e174dd30fea597/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/14/The.Monkey.2025.mp4/tracks-v1a1/mono.m3u8
-https://sghh.tiltonrigobert.sbs/sc/mi9ljv/master.txt?v=1742819856|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://cdn4.turboviplay.com/data1/67e59e29dea0f/67e59e29dea0f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/93OWlI9Ax5v87MFFlpq8Y3eR38Y.jpg",Red Blood Rescue (2025)
-https://cloud.hownetwork.xyz/xxx/68f90ffe371d3ee777b29cc7fb319fcc/31/480.m3u8
-https://sdjx.wesleykqpg.sbs/vz/jcvk11/master.txt?v=1742300682|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://cdn4.turboviplay.com/data1/67e40c3eee60b/67e40c3eee60b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4u1bsyWs2stki09nl8TDPIWcflE.jpg",Beat The Tiger (Chu Fei) (2025)
-https://cloud.hownetwork.xyz/xxx/f83b4122160da0e9af791c270b7f4015/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/13/Beat.The.Tiger.Chu.Fei.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67e40563b0ae5/67e40563b0ae5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4u1bsyWs2stki09nl8TDPIWcflE.jpg",Dragon (2025)
-https://cloud.hownetwork.xyz/xxx/4970c65316b2278669ba77f39eabe3f6/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/13/Dragon.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2uDzWRLQU7RzgpXweM4cmFE1D0n.jpg",🟠 Like Friends (2025)
-https://spuc.monkberga.sbs/v4/sc/ur3z63/cf-master.txt?v=1742903386|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/erte-170x255.jpg",🟠 Zombie Repellent (2025)
-https://sipt.sipeskrlbtrujill.sbs/v4/61/6husnk/cf-master.txt?v=1742754617|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",🔴 Ne Zha 2 (2025)
-https://cloud.hownetwork.xyz/xxx/c1e87d23f71a3d61b97be08c0ecccbb9/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Ne.Zha.2.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/1741921797230-152x228.jpeg",🟠 Journey to the West Happy City (2025)
-https://s3ae.swobodafocht.sbs/v4/ck/x6lngt/cf-master.txt?v=1742907492|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/dfgdg-1-152x228.jpg",🟠 Beyond the Sin (2025)
-https://sdqm.feistjmyrodne.sbs/v4/lf/6hky1b/cf-master.txt?v=1742665746|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m9UtcOEQBtCrRHEI0B2ok4LzdM.jpg",Popeye: The Slayer Man (2025)
-https://cloud.hownetwork.xyz/xxx/75a513568a5417e1f54220f17235fd23/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Popeye.The.Slayer.Man.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-198432-webrip-1080-terbit21-com-popeye-the-slayer-man-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",🟠 Snow White (2025)
-https://s3ae.amberwels.sbs/v4/9a/epoavr/cf-master.txt?v=1742581590|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lhg3YuybroN2gszAEanXLMtj473.jpg",Little Siberia (2025)
-https://cloud.hownetwork.xyz/xxx/c78116e41cb8a3fcb4627b40e4ab47e8/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Little.Siberia.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67e04ff2eebb0/67e04ff2eebb0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xPSur71bxvFVdQ6RdKv0yaVKT2n.jpg",Riff Raff (2025)
-https://seneng.org/v/driveid-198456-webrip-1080-terbit21-com-riff-raff-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ak0HlRVsVzh8mvwIUZpZr0z6uqW.jpg",Revelations (2025)
-https://cloud.hownetwork.xyz/xxx/d410f0284e83284bba45cbf392635aca/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Revelations.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",Cleaner (2025)
-https://cloud.hownetwork.xyz/xxx/8acf0948a31acb5abea1d766d98e2ddc/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Cleaner.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-198433-webrip-1080-terbit21-com-cleaner-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/q0eR7Ser6JxKYQdPFGTdqY1nc0Q.jpg",High Ground (2025)
-https://cloud.hownetwork.xyz/xxx/0fb5e2bc3cf61a4eef439d7d1f6bd2c8/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/High.Ground.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-198434-webrip-1080-terbit21-com-high-ground-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wKDCQpSfGJIyZmuXyZlnPmjV3QW.jpg",🟠 Forbidden Fairytale (2025)
-https://sskt.killionorellanacoelho.sbs/v4/us/c51myo/cf-master.txt?v=1742506367|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pYrmTaOnMgvS59OKSxkCSrhISoL.jpg",Tyler Perry’s Duplicity (2025)
-https://cloud.hownetwork.xyz/xxx/b7237932a82dc5cbec394800d1f386f3/31/480.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/8DIVwwwajA2LD7MuR1WcVVsdek8-152x228.jpg",🟠 Nemesis (2025)
-https://spuc.vivianorov.sbs/v4/xq/urcci1/cf-master.txt?v=1742460994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg",🟠 O’Dessa (2025)
-https://slob.ghwillawkn.sbs/v4/36/urcclm/cf-master.txt?v=1742463153|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg",Borderline (2025)
-https://cloud.hownetwork.xyz/xxx/a64da31bee836f1f09cce80ceaae0ea7/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Borderline.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67dd932c049a0/67dd932c049a0720.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/nd5Heotj6nlxM38Gjt7beq7BJS1.jpg",My Dead Friend Zoe (2025)
-https://sr81.ulrikeumdqputm.sbs/v4/rw/q3aqmb/cf-master.txt?v=1742376780|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",Batman Ninja vs. Yakuza League (2025)
-https://cloud.hownetwork.xyz/xxx/9bbdae60ba5e13dccbe7e01b452b6f49/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/Batman.Ninja.vs.Yakuza.League.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67dae00f8ce6b/67dae00f8ce6b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",The Twister: Caught in the Storm (2025)
-https://cloud.hownetwork.xyz/xxx/17a73c93b5257cfbfc246ecd4663c18d/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/The.Twister.Caught.in.the.Storm.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67dad697bb9ce/67dad697bb9ce720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/01/Video On Demand-fateh-2025-lk21-d21.jpg.webp",Fateh (2025)
-https://cloud.hownetwork.xyz/xxx/eb818eb8cbae34cd66ddc2f320ebf617/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67d8e01665821/67d8e01665821720.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/151493_MZ3JEJEGCVUDW94-170x255.png",🟠 The Bandits (2025)
-https://sipt.feistjmyrodne.sbs/v4/ic/c5zbjm/cf-master.txt?v=1742124952|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cACC8N7cZWscPrlcNdPsx43xJmx.jpg",Qimen Mechanism Volume (2025)
-https://cloud.hownetwork.xyz/xxx/92e1d7053ed11a1548167eadafee699c/25/480.m3u8
-https://seneng.org/v/driveid-198308-webdl-1080-terbit21-com-qimen-mechanism-volume-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dKTY5y2o598eKEvM3Qb4OG2hrKv.jpg",Spy Puzzle (2025)
-https://cloud.hownetwork.xyz/xxx/7c659d5a4cbafbf9bd1c5e7a198bb317/25/480.m3u8
-https://seneng.org/v/driveid-198248-webdl-1080-terbit21-com-spy-puzzle-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",Silent Zone (2025)
-https://cloud.hownetwork.xyz/xxx/e0c6be20c77680660c3e6f3ad829a67a/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gYdmNz3HT22vimRdwVCmhKBSLZV.jpg",🟠 Mystery Island: Winner Takes All (2025)
-https://sskt.mcentirecajigas.sbs/v4/ty/hlo9d3/cf-master.txt?v=1742034374|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1tA8FjzfwxwZIKom7Jh36CPoqo0.jpg",Bleed for Past (2025)
-https://cloud.hownetwork.xyz/xxx/9d010da67179608d78d6c8b32f93f0a7/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/03/Bleed.for.Past.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1ESLViZ7fd4CweUaNrQh2W01y75.jpg",🟠 The Hunt Down (2025)
-https://skra.coombsneils.sbs/v4/ty/urq9rr/cf-master.txt?v=1741972806|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v6v6YvI24kgyE06VN9kj0rB1fZ3.jpg",🟠 High Rollers (2025)
-https://s3ae.gatesnationjyd.sbs/v4/m9/s9ogkx/cf-master.txt?v=1741947403|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wT1h78uJhQMhvCKVb93AuRrZDOP.jpg",The 8th Day (2025)
-https://seneng.org/v/driveid-198838-webrip-1080-terbit21-com-the-8th-day-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg",The Electric State (2025)
-https://cloud.hownetwork.xyz/xxx/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/The.Electric.State.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67d5ee570ba36/67d5ee570ba36720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg",Control Freak (2025)
-https://cloud.hownetwork.xyz/xxx/8f8dc27d42e1302ec3422fd43c5718a2/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Control.Freak.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67d4b6730d7bb/67d4b6730d7bb720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ugMPpC7EkY5caAZU4pAl2CYdfP0.jpg",Be Happy (2025)
-https://cloud.hownetwork.xyz/xxx/abd7f97a69169847c71a9dc3c30ca8d6/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Be.Happy.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/03/Video On Demand-emergency-2025-lk21-d21.jpg.webp",Emergency (2025)
-https://cloud.hownetwork.xyz/xxx/797cb0500350d0ee13994f4bf4de5414/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Emergency.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg",The Parenting (2025)
-https://cloud.hownetwork.xyz/xxx/9f41fe6dcf61497e9df6874cf7ad9a34/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/The.Parenting.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67d2d3ad17c39/67d2d3ad17c39720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sXVuR2G7ohLzfOBGDarjpM1SRCI.jpg",Ride the Snake (2025)
-https://cloud.hownetwork.xyz/xxx/3b203ab06753a7984a9a313c8c9feef8/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/Ride.the.Snake.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.com/data1/67d2cb60c215e/67d2cb60c215e720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",Captain America: Brave New World (2025)
-https://cloud.hownetwork.xyz/xxx/8a4df659ae3306abb98f010f229773bc/25/480.m3u8
-https://seneng.org/v/driveid-198147-webrip-1080-terbit21-com-captain-america-brave-new-world-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.com/data1/67d17c59d3c61/67d17c59d3c61720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg",🔵 Wolf Man (2025)
-https://cloud.hownetwork.xyz/xxx/cfd0e834c63bd58acb444a46bbc68b0c/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67d1d421ae42e/67d1d421ae42e720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hsID52Xm8VyljFoILd4eW1ZtJ76.jpg",The Cursed Village (阴山异闻录) (2025)
-https://cloud.hownetwork.xyz/xxx/589950dc64938c61470103cecd833c49/25/480.m3u8
-https://cdn2.turboviplay.com/data1/67d0042a75631/67d0042a75631720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9Qv16IqRfz4tilsHBRyWiufNy4D.jpg",The Story of Detective Zhan Zhao (展昭·探案) (2025)
-https://cloud.hownetwork.xyz/xxx/5d9c1bdd4e5124001fe42a487d19b350/25/480.m3u8
-https://cdn2.turboviplay.com/data1/67cfdea8d0420/67cfdea8d0420720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2WoKKvmRrEcTlrhZiRnwD2rGq0I.jpg",Green Snake: The Origin (青蛇缘起) (2025)
-https://cloud.hownetwork.xyz/xxx/62e6f0d9dc50c29f921681b6a075dd0c/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/06/Green.Snake.The.Origin.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/67cfd56441c2e/67cfd56441c2e720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yWCNDb1ORy2UdhmK0fZISGsMdHU.jpg",Elite Force: B.R.I. – Body Recovery Immmusination (2025)
-https://cloud.hownetwork.xyz/xxx/a9fb9120c7954d32877a7cc195d07771/25/480.m3u8
-https://seneng.org/v/driveid-198170-webrip-1080-terbit21-com-elite-force-bri-body-recovery-immmusination-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.com/data1/67d178a435d02/67d178a435d02720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hsID52Xm8VyljFoILd4eW1ZtJ76.jpg",Bloat (2025)
-https://cloud.hownetwork.xyz/xxx/da2a71962466765659c5110e0a034e3c/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/05/Bloat.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-198122-webrip-1080-terbit21-com-bloat-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.com/data1/67cdeee52a4a5/67cdeee52a4a5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wXi3HeTIfoBOBWK6RQKKGW44wuG.jpg",Woods of Ash (2025)
-https://cloud.hownetwork.xyz/xxx/e8ebda4c0c8cd6d5fbffca77a0c8d675/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67cddfe816d3f/67cddfe816d3f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lcWOKxTVZybE8aRUhzkKokU2s0s.jpg",Chaos: The Manson Murders (2025)
-https://cloud.hownetwork.xyz/xxx/15be7eccc6b316f18d37d05f75593d01/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67cca4826d7fc/67cca4826d7fc720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3W1PZYEiDXWLLjLCMUbRPfjHxmq.jpg",Delicious (2025)
-https://cloud.hownetwork.xyz/xxx/7e8ed932c91ad20486a3e617515578c6/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67cc8e2a65ec3/67cc8e2a65ec3720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",Plankton: The Movie (2025)
-https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Plankton.The.Movie.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67cc7f0bbdd78/67cc7f0bbdd78720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aDlystAxo1CVDE2FfML2A6NOB6Z.jpg",Tiger Squad (2025)
-https://cloud.hownetwork.xyz/xxx/3b384aa6d4125bd0fa86eb7551fb3993/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Tiger.Squad.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-198142-webdl-1080-terbit21-com-tiger-squad-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.com/data1/67cc14861a1a3/67cc14861a1a3720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",Barbie and Teresa: Recipe for Friendship (2025)
-https://cloud.hownetwork.xyz/xxx/48a366ebca9aead026d3465c6b87bafb/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Barbie.and.Teresa.Recipe.for.Friendship.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67cc1a2996a41/67cc1a2996a41720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3kN0mj58gaOEEqa4qYky2sHIS8Z.jpg",Dragon Seduction (Loong of the Oceans) (2025)
-https://cloud.hownetwork.xyz/xxx/7e8542d94a385d1bfbb8c1bd44564ab5/25/480.m3u8
-https://seneng.org/v/driveid-198141-webdl-1080-terbit21-com-loong-of-the-oceans-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn.turboviplay.com/data1/67cc0c4218ea5/67cc0c4218ea5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oKOBmI4IA7NJ9MQngDIQUyv1i0I.jpg",Nadaaniyan (2025)
-https://cloud.hownetwork.xyz/xxx/e9d3992a69dad32b403f0de2911be7ec/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Nadaaniyan.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67cbfe5f835c0/67cbfe5f835c0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",Dark Nuns (2025)
-https://cloud.hownetwork.xyz/xxx/c2b9ed4b13da671a025b2ae7d3139abf/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Dark.Nuns.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67ca91b71ad6e/67ca91b71ad6e720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8LSdymxp7As658u6H86ISXwDvx1.jpg",Sugar Mama (2025)
-https://seneng.org/v/driveid-197259-webrip-720-terbit21-com-sugar-mama-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNx92KgGTJrkmL1PatGYSg2rTMR.jpg",Larissa: The Other Side of Anitta (2025)
-https://cloud.hownetwork.xyz/xxx/f53c9e9f439b142324b1d27db153bdf9/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/03/Larissa.The.Other.Side.of.Anitta.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67c9db0ed0c95/67c9db0ed0c95720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg",Heart Eyes (2025)
-https://cloud.hownetwork.xyz/xxx/c6f6720c8cd3110454c563608f3ee1e9/31/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Heart.Eyes.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67cb3ddcc4c72/67cb3ddcc4c72720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",The Golden Voice (2025)
-https://cloud.hownetwork.xyz/xxx/5c314f34aeb11fe9ce518e47627ddde7/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/The.Golden.Voice.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/67c600144a39e/67c600144a39e720.m3u8
-
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",Putin (2025)
-https://cloud.hownetwork.xyz/xxx/4b1be035f5924139cae0a66f991840d8/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Putin.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/67c5eff5e076d/67c5eff5e076d720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",Fight or Flight (2025)
-https://cloud.hownetwork.xyz/xxx/ba0c5aa7fd81f3d6e943fa4cdecc254b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Fight.or.Flight.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-197480-webrip-1080-terbit21-com-fight-or-flight-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn2.turboviplay.com/data1/67c5e42e0f3fc/67c5e42e0f3fc720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qYwI2QmjzMLDm0W58rTJEQzXjMP.jpg",Disfluency (2025)
-https://seneng.org/v/driveid-196637-webrip-1080-terbit21-com-disfluency-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3TLuLDLPLdp6fgVK9Ak6aC6Xrbc.jpg",9/11: The Day the World Stood Still (2025)
-https://seneng.org/v/driveid-198015-webrip-1080-terbit21-com-911-the-day-the-world-stood-still-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yx7AYFLoupzBfdfEAlDFuOiei2A.jpg",Vidaamuyarchi (2025)
-https://cloud.hownetwork.xyz/xxx/3b7a59f7fdb3d698ac373de55408d7c6/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/VidaaMuyarchi.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/67c5d8984798c/67c5d8984798c720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7uVdqyf7xiHeGjxhnRTKjGnO0Gm.jpg",The Wrong Track (2025)
-https://seneng.org/v/driveid-197416-web-hd-1080-terbit21-com-the-wrong-track-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wNKm4nC6vUyI1UluEr9nNNhGkNw.jpg",Cold Wallet (2025)
-https://cloud.hownetwork.xyz/xxx/9799216f5077183f9583ba596302b7de/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Cold.Wallet.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c3491abdf14/67c3491abdf14720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7BGekMRHcfHZwgP4taxhvezZUSV.jpg",We Kill Them All (2025)
-https://cloud.hownetwork.xyz/xxx/8ed7628c76d8951d60cdf2d9bbaa3e5f/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/We.Kill.Them.All.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c342605f812/67c342605f812720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",Counterstrike (2025)
-https://cloud.hownetwork.xyz/xxx/00d55c4b04e09107a90c842357bad879/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Counterstrike.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c338d2ec723/67c338d2ec723720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AnDwpI8dY8iqJVUwVS5UotYAbB1.jpg",Squad 36 (2025)
-https://cloud.hownetwork.xyz/xxx/279ae25c0015cb4f6054d37ca0ef58a2/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Squad.36.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c330bd328f9/67c330bd328f9720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aau2E9HW5TvlxoNPHET6ZnAcV72.jpg",A Copenhagen Love Story (2025)
-https://cloud.hownetwork.xyz/xxx/ccae5331f5c31a116157e60f49559e2c/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/A.Copenhagen.Love.Story.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c31cba85f7e/67c31cba85f7e720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fQ9hzto0cUuxjfzqNAiAnNJo8O7.jpg",Demon City (2025)
-https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Demon.City.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c312335afa5/67c312335afa5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg",Sosyal Climbers (2025)
-https://cloud.hownetwork.xyz/xxx/e75f5dfc3d2a3c700a39fc425534ff4b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Sosyal.Climbers.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67c1356639104/67c1356639104720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/baRk5YLkKKYrnfcVjpJ5iEUC0zj.jpg",The Legend of Condor Hero: What is Love (2025)
-https://seneng.org/v/driveid-197015-webdl-1080-terbit21-com-the-legend-of-condor-hero-what-is-love-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg", Don’t Die: The Man Who Wants to Live Forever (2025)
-https://cloud.hownetwork.xyz/xxx/14195fd0dd08728100507b6d50557071/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67c065cb2c4e0/67c065cb2c4e0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",Presence (2025)
-https://cloud.hownetwork.xyz/xxx/e101d11ae41ece7d58a426cf3921e55e/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/14/Presence.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67bfb97cd4277/67bfb97cd4277720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",Inheritance (2025)
-https://cloud.hownetwork.xyz/xxx/3ad5a88b18804fe89054ec636d0f406b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Inheritance.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67bc242fc7c56/67bc242fc7c56720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/e4aTDL3h40zkK3FpGgh8wPlj1F7.jpg",Bone Face (2025)
-https://cloud.hownetwork.xyz/xxx/ca5e99a3cff916b59bdc41927cc73ce8/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Bone.Face.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67bc0c62ec424/67bc0c62ec424720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/rGW9ad5TERuoluGSkgF1wHXP45H.jpg",Daaku Maharaaj (2025)
-https://cloud.hownetwork.xyz/xxx/2b11838fa0c707e047eb0a74eac33b86/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Daaku.Maharaaj.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.com/data1/67bbde07d4330/67bbde07d4330720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg",The Bayou (2025)
-https://cloud.hownetwork.xyz/xxx/885bbc857b1c8b8271611f82b4b18f2b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/The.Bayou.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.com/data1/67b95202ae20a/67b95202ae20a720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",Undercover Party Crasher (2025)
-https://seneng.org/v/driveid-196858-webrip-1080-terbit21-com-undercover-party-crasher-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gezz9fe6RsFP6m1m88c0GIOfk47.jpg",The Unlock (2025)
-https://seneng.org/v/driveid-196842-webrip-1080-terbit21-com-the-unlock-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2SIFyuUmnYnXnsJ2Q9cA9Jt3af9.jpg",The Wish Swap (2025)
-https://seneng.org/v/driveid-196823-webrip-1080-terbit21-com-the-wish-swap-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yf5VehJTvUh0mIcKVv0mTSWhCkk.jpg",Reality Bites  A Hannah Swensen Mystery (2025)
-https://seneng.org/v/driveid-196822-webrip-1080-terbit21-com-reality-bites-a-hannah-swensen-mystery-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg",One of Them Days (2025)
-https://seneng.org/v/driveid-196820-webrip-1080-terbit21-com-one-of-them-days-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bjHGT2f65Tim3YFJJci766FOgzH.jpg",Cooked (2025)
-https://seneng.org/v/driveid-196816-webrip-1080-terbit21-com-cooked-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cts6R2JOIGGyzYP4UH21SHDjEuO.jpg",Night of the Dead Sorority Babes (2025)
-https://seneng.org/v/driveid-196808-webrip-1080-terbit21-com-night-of-the-dead-sorority-babes-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6id6E5CW15Aa6UD9OoasJKnG1Sc.jpg",Anti Drug Operations (2025)
-https://seneng.org/v/driveid-196919-webdl-1080-terbit21-com-anti-drug-operations-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",Valiant One (2025)
-https://cloud.hownetwork.xyz/xxx/029753aaa70b481cd4251f3708cff83a/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/Valiant.One.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.cc/data1/67b70f2934f66/67b70f2934f66720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aHHCXbPjI6xHJoo5fkBNmPm2lo1.jpg",Popeye's Revenge (2025)
-https://cloud.hownetwork.xyz/xxx/efcc1f196e4bb63d98817d82a7589bb2/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/11/Popeyes.Revenge.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/67b59f16bb835/67b59f16bb835720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025)
-https://seneng.org/v/driveid-196906-webdl-1080-terbit21-com-tokyo-nights-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/Ad0ZK9wUOKjyB8J90JvMUh0TQ4E.jpg",Dog Man (2025)
-https://cloud.hownetwork.xyz/xxx/64a1451c538da03c8d0d6e991f634d72/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/11/Dog.Man.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/67b58ee83e95f/67b58ee83e95f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mhg1zYmo0CwQITXEIs45lxR5EOE.jpg",The Dead Thing (2025)
-https://cloud.hownetwork.xyz/xxx/46bebb8a7b92461a5ff682bf26f1a231/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/The.Dead.Thing.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b16db4b6d67/67b16db4b6d67720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",Bridget Jones  Mad About the Boy (2025)
-https://cloud.hownetwork.xyz/xxx/fa420dee4ac2c8f65e761987e5a8a012/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Bridget.Jones.Mad.About.the.Boy.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b0fc2297194/67b0fc2297194720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5B7Px0GfJwNMRD5PWJW3d0seo7O.jpg",The Cursed Village (2025)
-https://cloud.hownetwork.xyz/xxx/589950dc64938c61470103cecd833c49/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/06/The.Cursed.Village.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-196628-webdl-1080-terbit21-com-the-cursed-village-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.com/data1/67d0042a75631/67d0042a75631720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fLsqbS6polYms46pJ02nCmH5MjN.jpg",Umjolo  There Is No Cure (2025)
-https://cloud.hownetwork.xyz/xxx/f85672d4c328ffa450460becb7ebf945/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Umjolo.There.Is.No.Cure.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b0da11824c2/67b0da11824c2720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/e2yAyz0PR43aIxnGjv9HJryHBys.jpg",Love Forever (2025)
-https://cloud.hownetwork.xyz/xxx/b2938778f0663766f3fbbec7ec5d8fbf/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Love.Forever.Karlek.farever.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b0d1f8342ac/67b0d1f8342ac720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",The Gorge (2025)
-https://cloud.hownetwork.xyz/xxx/dbbaaef69a7259a80521c2a811010e4c/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/The.Gorge.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b09d4438bb6/67b09d4438bb6720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg",La Dolce Villa (2025)
-https://cloud.hownetwork.xyz/xxx/44ce086e51e5cae5a9da713c855ff68e/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/La.Dolce.Villa.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b056f6abc36/67b056f6abc36720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",My Fault  London (2025)
-https://cloud.hownetwork.xyz/xxx/41cc70d46e18a4c07667a360cee3baf5/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/My.Fault.London.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b0455426ac9/67b0455426ac9720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",Dhoom Dhaam (2025)
-https://cloud.hownetwork.xyz/xxx/cf3656408174245d80a6e020ab304d69/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/Dhoom.Dhaam.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67b0281285b3f/67b0281285b3f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mfy5SyaNBleBACs5mIVudDP7UNY.jpg",The Witcher  Sirens of the Deep (2025)
-https://cloud.hownetwork.xyz/xxx/362186a2f4606946251d5f5d457e11ad/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/The.Witcher.Sirens.of.the.Deep.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/67ac382ac39d8/67ac382ac39d8720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uiFSFpRzs2ue14aVBHKwXPFSCj8.jpg",Identity (2025)
-https://cloud.hownetwork.xyz/xxx/3110582825a849c89221aed04cb37010/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/Identity.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/67acdeb258f32/67acdeb258f32720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hwderaleWCBj6nrJDxi3BKyJvaI.jpg",Death Before the Wedding (2025)
-https://seneng.org/v/driveid-196594-webrip-1080-terbit21-com-death-before-the-wedding-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg",Honeymoon Crasher (2025)
-https://cloud.hownetwork.xyz/xxx/477ebe248a9f031ef72119f417dd242f/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/Honeymoon.Crasher.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/67acd1d50bb07/67acd1d50bb071080.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",Sky Force (2025) 🔴
-https://cloud.hownetwork.xyz/xxx/f5cb5feb96cc766bd55fb23927c6a1c2/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Sky.Force.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-196542-hdrip-1080-terbit21-com-sky-force-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn2.turboviplay.cc/data1/67aacab4ed37f/67aacab4ed37f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Tzq8vYW5ji0WQnMkg8kBFx3tWJ.jpg",Black Diamond (2025)
-https://cloud.hownetwork.xyz/xxx/b9f0897073d61cbf370b66eba0ab3007/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Black.Diamond.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a92cc36808b/67a92cc36808b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5wZNFUJAwyX6RCxdqrLO9lLWJ20.jpg",Piglet (2025)
-https://cloud.hownetwork.xyz/xxx/6e509565347437e16eebbff359374f23/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Piglet.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a91c56c5f80/67a91c56c5f80720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",Kinda Pregnant (2025)
-https://seneng.org/v/driveid-196469-webrip-1080-terbit21-com-kinda-pregnant-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg",Game Changer (2025)
-https://cloud.hownetwork.xyz/xxx/745a9c9b514e5a3812df99ec47e618e0/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Game.Changer.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a8c9017c3e5/67a8c9017c3e5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",The Gardener (2025)
-https://cloud.hownetwork.xyz/xxx/46e08a992733136f93acc49dfc111897/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Gardener.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a869341f5b1/67a869341f5b1720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/znlcaqgOppgEl7eHiTYo55gD8Fy.jpg",Bodyguard 3 (2025)
-https://cloud.hownetwork.xyz/xxx/6e0e3be5ae97d1556ea72bb1e17fd348/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Bodyguard.3.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a8334b90dcd/67a8334b90dcd720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg",With You in the Future (2025)
-https://cloud.hownetwork.xyz/xxx/a05b55899fe9a006b714fd2b389a78ce/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/With.You.in.the.Future.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a82b10cddd8/67a82b10cddd8720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uX40XUTBJFIskKmpThelUnRXelq.jpg",Wish You Were Here (2025)
-https://cloud.hownetwork.xyz/xxx/50eac53421708dc097f2babe6b726d49/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Wish.You.Were.Here.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-196434-webrip-1080-terbit21-com-wish-you-were-here-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.cc/data1/67a4e77e2c69d/67a4e77e2c69d720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Xzf7IHltlUHosVKKW7cKWtTv1n.jpg",Invincible Swordsman (2025)
-https://cloud.hownetwork.xyz/xxx/a9dd313b2e5622b34369c1dfcef061d7/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Invincible.Swordsman.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn1.turboviplay.cc/data1/67a4de6a3e07c/67a4de6a3e07c720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mkxZ2dZPowd3qhLMavZc2mBRBig.jpg",Guardian of Graveyard (2025)
-https://cloud.hownetwork.xyz/xxx/1cce4f5b5c17637e6a1ea59063598032/25/480.m3u8
-https://seneng.org/v/driveid-196432-webdl-1080-terbit21-com-guardian-of-graveyard-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn1.turboviplay.com/data1/67c12a7aca423/67c12a7aca423720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8vPfPIBpW3jP7rZkZeaw8GImgIN.jpg",To Dye For  The Documentary (2025)
-https://seneng.org/v/driveid-195450-webrip-1080-terbit21-com-to-dye-for-the-documentary-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cEJotKlZ6Mts3sLfMsurERfjM4M.jpg",Anaconda Island (2025)
-https://cloud.hownetwork.xyz/xxx/fba1256400dec3c4a30b87b70e82ecf5/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/Anaconda.Island.Island.Python.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.cc/data1/67a304c48fd63/67a304c48fd63720.m3u8
-https://seneng.org/v/driveid-196284-webdl-1080-terbit21-com-anaconda-island-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nlmhmxEZYg0SAyCHB22DS225EYR.jpg",Kutty Vaathiyar (2025)
-https://cloud.hownetwork.xyz/xxx/bb8d38d840216cfcd7fc0b232829c116/25/480.m3u8
-https://cdn3.turboviplay.cc/data1/679f0a2524508/679f0a2524508720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fX3Q5hxUAUs1k8JQkNTwFpBd6BC.jpg",Lucca's World (2025)
-https://cloud.hownetwork.xyz/xxx/1649ce9040e1a887f54c5e1c1e3cd08f/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/Luccas.World.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195962-webrip-1080-terbit21-com-luccas-world-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn3.turboviplay.cc/data1/679ddac59951f/679ddac59951f720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",You're Cordially Invited (2025)
-https://cloud.hownetwork.xyz/xxx/fe81c75d192987e40fd74043588341bb/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/21/Youre.Cordially.Invited.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.com/data1/679c895ca4282/679c895ca4282720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rzk6rY7VBy3SJI1r7Hln1PEP6nk.jpg",Agent Recon (2025) 🔵
-https://cloud.hownetwork.xyz/xxx/2dc5d37eaba9e2a9d2e917184aa14a98/25/480.m3u8
-https://seneng.org/v/driveid-195696-bluray-1080-terbit21-com-agent-recon-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.cc/data1/679abe019a590/679abe019a590480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y6tjYgG458dOp948Oy6km7aCDlg.jpg",The Intruder (2025)
-https://cloud.hownetwork.xyz/xxx/2d5643d20f943747d344f313e67ee09b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/The.Intruder.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195784-webrip-1080-terbit21-com-the-intruder-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn2.turboviplay.cc/data1/679a0e181af2c/679a0e181af2c720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zLHq7fQA3xpck5UIHcRYgip5pQD.jpg",Den of Thieves 2  Pantera (2025) 🔵
-https://cloud.hownetwork.xyz/xxx/163b5ad54b46579912a4992086208540/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67bf89a92ef87/67bf89a92ef87720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg",Sunray  Fallen Soldier (2025) 🔵
-https://cloud.hownetwork.xyz/xxx/f34ada2720ea259e77d120b72e646e2a/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/18/Sunray.Fallen.Soldier.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195691-bluray-1080-terbit21-com-sunray-fallen-soldier-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.cc/data1/6797bf9a7e191/6797bf9a7e191720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iTEqLT7ki9ovDcJnzM6xCH0kAS7.jpg",Bleed For Justice (2025)
-https://cloud.hownetwork.xyz/xxx/c7c672ba8257382a25a451c443a013cc/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Bleed.For.Justice.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195571-webdl-1080-terbit21-com-bleed-for-justice-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.cc/data1/679598cd3960a/679598cd3960a720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sqiCinCzUGlzQiFytS30N1nO3Pt.jpg",Star Trek  Section 31 (2025)
-https://cloud.hownetwork.xyz/xxx/89d8e8d577a11f7bc1adef24936d94d3/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Star.Trek.Section.31.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195570-webdl-1080-terbit21-com-star-trek-section-31-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.cc/data1/6795447f5e6aa/6795447f5e6aa720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sdPrOJHRJkWmjUsMQVHQeUAHFVD.jpg",God of Driving (2025)
-https://seneng.org/v/driveid-195569-webdl-1080-terbit21-com-god-of-driving-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cq6caJBoFu5BOCEXkXt2l8lIbb.jpg",Fortune Teller (2025)
-https://seneng.org/v/driveid-195568-webdl-1080-terbit21-com-fortune-teller-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rUmTgkDhBuimpjrl7uSrg2Q5uMX.jpg",Atrocious (2025)
-https://cloud.hownetwork.xyz/xxx/9bd1a68a56034614b878d619d19f057b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Atrocious.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.cc/data1/67953ae632b0a/67953ae632b0a720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",Henry Danger  The Movie (2025)
-https://cloud.hownetwork.xyz/xxx/f29ca290fef4897d9754e57f4bd4bda3/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Henry.Danger.The.Movie.2025.mp4/tracks-v1a1/mono.m3u8
-https://seneng.org/v/driveid-195543-webdl-1080-terbit21-com-henry-danger-the-movie-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn4.turboviplay.cc/data1/6794a525e0023/6794a525e0023480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
-https://seneng.org/v/driveid-195524-webdl-1080-terbit21-com-sponsor-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zNHgQRaflknCSRvKFepqvsHVimG.jpg",Hiram na Sandali (2025)
-https://seneng.org/v/driveid-195435-webdl-1080-terbit21-com-hiram-na-sandali-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tHkFVhZji6o9UyHXezAeFma8IOW.jpg",Into the Deep (2025) 🔵
-https://cloud.hownetwork.xyz/xxx/5fe9226824f50c1ad6d195d6ca09df43/25/480.m3u8
-https://cdn1.turboviplay.com/data1/67bf5f7a91055/67bf5f7a91055720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",Sniper  The Last Stand (2025)
-https://cloud.hownetwork.xyz/xxx/6b5eb15896d9676b375c97d21ac11b49/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/15/Sniper.The.Last.Stand.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vG0MA5LJyfqZhLBVcKp7yW14L7O.jpg",The Bear Lake Murders (2025)
-https://cloud.hownetwork.xyz/xxx/bd7ad39de1e64eedc9db3a9dddd7f7c7/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Bear.Lake.Murders.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn3.turboviplay.cc/data1/6790945fa3088/6790945fa3088720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg",Alarum (2025)
-https://cloud.hownetwork.xyz/xxx/4dc06f0f2e56e45fe535bf013836348d/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Alarum.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.cc/data1/678b57aaa786b/678b57aaa786b720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",Back in Action (2025)
-https://cloud.hownetwork.xyz/xxx/d769de49244226de6d1ed31c966983ac/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Back.in.Action.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn2.turboviplay.cc/data1/678b3393ec4b5/678b3393ec4b5720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kzZjCmum13xtqEGNZ9GUvrIlJoO.jpg",Life of Belle (2025)
-https://cloud.hownetwork.xyz/xxx/e822866a1ac9fb8be91a4149a9b45515/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Life.of.Belle.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn158.muletten.com/data/E/57/678afeb9d1b28/678afeb9d1b28720.m3u8|referer=https://cdn158.muletten.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuPqxATt872rKIR1WZI83TcpKw6.jpg",Man with No Past (2025)
-https://cloud.hownetwork.xyz/xxx/3f48d48213660df0152f4908e0f72362/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Man.with.No.Past.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn167.hugoal.com/data/C/25/678930fc4741a/678930fc4741a720.m3u8|referer=https://cdn167.hugoal.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg",The Calendar Killer (2025)
-https://seneng.org/v/driveid-195118-webdl-1080-terbit21-com-the-calendar-killer-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/jDp60qvdQWbO7AzRr0rw9lMxNap-170x255.jpg",🟠 Infamous (2025)
-https://sr81.bodnerhblfll.sbs/v4/36/qp5vm/cf-master.txt?v=1736948814|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pf52vijXcYHphDqHzaRrOaPL74G.jpg",Folk tales of Chu Maxian (2025)
-https://cloud.hownetwork.xyz/xxx/d5c6082e7b65098cc8910b929cc14c1d/26/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2mq3hCol5j4cLBnqbKHkqfTJo8B.jpg",🟠 Laws of Man (2025)
-https://sdqm.cuevasafrtba.sbs/v4/9a/6vrda/cf-master.txt?v=1736691445|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jAQO13lnhU1aHH1ldDwa0hwEK2T.jpg",My Friend is a Cute Shark (2025)
-https://slob.cneeleyalin.sbs/v4/lf/6vpwm/cf-master.txt?v=1736588820|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/15S0xOO4d7zBgasV2qNo03Ax7Qb.jpg",Den of Thieves 2  Pantera (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/Den.of.Thieves.2.Pantera.2025.mp4/tracks-v1a1/mono.m3u8
-https://cloud.hownetwork.xyz/xxx/163b5ad54b46579912a4992086208540/25/480.m3u8
-https://cdn4.turboviplay.com/data1/67bf89a92ef87/67bf89a92ef87720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/zH3CBGX0pQA8e9Psxy5BXdzbAJP-170x255.jpg",The Gardener (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Gardener.2025.mp4/tracks-v1a1/mono.m3u8
-https://cloud.hownetwork.xyz/xxx/46e08a992733136f93acc49dfc111897/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",Ad Vitam (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Ad.Vitam.2025.mp4/tracks-v1a1/mono.m3u8
-https://cloud.hownetwork.xyz/xxx/facd772b64ab9bfabb46eab09542ad10/26/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hgOAwoJv2l8HF22lidIslOp2Nhf.jpg",Gabriel Iglesias  Legend of Fluffy (2025)
-https://cloud.hownetwork.xyz/xxx/facd772b64ab9bfabb46eab09542ad10/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Gabriel.Iglesias.Legend.of.Fluffy.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",The Savior of the World (2025)
-https://cloud.hownetwork.xyz/xxx/ba96b2b2464fd2f59bee6843a9905f1a/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/The.Savior.of.the.World.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fhx261QNON8M7oMnVBy8jzSwxEZ.jpg",Evil of The Rat – Rat King (2025)
-https://cloud.hownetwork.xyz/xxx/ba96b2b2464fd2f59bee6843a9905f1a/26/480.m3u8
-https://cdn4.turboviplay.com/data1/677e4d123cdab/677e4d123cdab720.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025)
-https://cloud.hownetwork.xyz/xxx/b318aee5a9eb3a410cdaf7556855da4b/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.cc/data1/6790c7cd50fb2/6790c7cd50fb2720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025)
-https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",Don't Die  The Man Who Wants to Live Forever (2025)
-https://cloud.hownetwork.xyz/xxx/14195fd0dd08728100507b6d50557071/25/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Dont.Die.The.Man.Who.Wants.to.Live.Forever.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn4.turboviplay.com/data1/67c065cb2c4e0/67c065cb2c4e0720.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",Nosferatu (2025)
-https://cloud.hownetwork.xyz/xxx/a3adca4605b55c2fb4337c6745d92ba4/25/480.m3u8
-https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
+# ===================== SERIES =================================================================================================
+
+#EXTM3U
+
+===== DORAEMON SERIES =====
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",1. Doraemon - Bersemangatlah Rumah Hantu
+https://files.dubbindo.site/upload/videos/2024/10/tSbTAeRNZNLUr1yGdOLE_06_c29e446b9dbe7b7fa0548205bebc3246_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",2. Doraemon - Ayah Sang Pelari
+https://files.dubbindo.site/upload/videos/2024/10/xZeUpoc4WeMV43sFi4bh_07_f5105670b9085e9cc254fad0ec1b003d_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",3. Doraemon - Peternak Makanan Manis
+https://files.dubbindo.site/upload/videos/2024/10/tkXo7Iv3Yp4ZmsI4zDiB_08_fc068c19e318a7d9e61dc274f3587866_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",4. Doraemon - Perang Luar Angkasa di Langit-Langit Rumah
+https://files.dubbindo.site/upload/videos/2024/10/7ZGW27llWRi7Eg4wIRho_09_727814e931c42a0606b2dcbb8b8586cd_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",5. Doraemon - Kamera Peran Terbaik
+https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49551fea78133709d983744cf9ce_video_720p_converted.mp4
+
+===== OMAR (UMAR BIN KHATTAB) SERIES =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",1. OMAR Episode 1
+https://files.dubbindo.site/upload/videos/2024/03/A34gfl6vhjucnkmchLPw_18_4253bfb2caf6c5492b0fb8dfc0794f3c_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",2. OMAR Episode 2-3
+https://files.dubbindo.site/upload/videos/2024/03/3Cz5T8jT4rx4PgDSLVJY_18_974758a328a0bdcba83d923fea0d7748_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",3. OMAR Episode 4-5
+https://files.dubbindo.site/upload/videos/2024/03/EaUtCc8NdG32xEdygoj7_18_58384d938c48033323849e8588e55fb0_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",4. OMAR Episode 6-7
+https://files.dubbindo.site/upload/videos/2024/03/BVWLLPOApGBOqxJiswAC_18_51555620af8263f63712247d4da35b6b_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",5. OMAR Episode 8-9
+https://files.dubbindo.site/upload/videos/2024/03/2B3jXh6yc7RACzfq9oTs_19_e9954ade81505ad81878bb932ff5f562_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",6. OMAR Episode 10
+https://files.dubbindo.site/upload/videos/2024/03/iPlefx1hMeceMmQ7F3Cd_20_4bc66f2bfaf5192a1d054bbbcc29125e_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",7. OMAR Episode 11
+https://files.dubbindo.site/upload/videos/2024/03/BkZI3jXu7Wo9gPTUNAsy_21_d87846baa23140cc4d5ff979ea38bc01_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",8. OMAR Episode 12
+https://files.dubbindo.site/upload/videos/2024/03/esoL2m8zPNnBjday5ZFi_24_669301d1bd1852cb9565d29a45aefd7e_video_720p_converted.mp4
+
+===== ONE PIECE: GYOJIN TOUHEN =====
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",1. One Piece Gyojin Touhen - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1Hlr3ELgWthOlByCLXzMfxUFFRR3TRYcm&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",2. One Piece Gyojin Touhen - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s3.acefile.co/V3/files/a68288b8206d23ea6b2361aeadd6b923.mp4
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",3. One Piece Gyojin Touhen - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1MMfCI9O_kop2-TQs5CqvcEqvK36BZ_7W&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",4. One Piece Gyojin Touhen - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1RvuaqKAzdvZYOLepNloaMatncvG0YpGe&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",5. One Piece Gyojin Touhen - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-5-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",6. One Piece: Gyojin Tou-hen-Episode 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-6-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",7. One Piece: Gyojin Tou-hen-Episode 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-7-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",8. One Piece: Gyojin Tou-hen-Episode 8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-8-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",9. One Piece: Gyojin Tou-hen-Episode 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-9-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",10. One Piece: Gyojin Tou-hen-Episode 10 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-10-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",11. One Piece: Gyojin Tou-hen-Episode 11 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-11-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",12. One Piece: Gyojin Tou-hen-Episode 12 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-12-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",13. One Piece: Gyojin Tou-hen-Episode 13 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-13-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",14. One Piece: Gyojin Tou-hen-Episode 14 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-14-MP4HD-SAMEHADAKU.CARE.mp4
+
+
+# ====== induk gajah 2 ======
+
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1Ko-NyOH5Tf9U_j5f87dfR6Ebl4RZT2oT&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1ux-p0KBNFi2jxb2UR-wxHHBv8D6kOycz&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1xncBZWjMH7XmUytBFUZx5HipBJ3lAwr2&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1FnNC0GEBJyasaJNDb1kqu9ca8-60Pkvt&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1_yoPuPUQQOJ-E3DK_-_lGH_jf-mT2hi3&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1qXeX7ixb6vC-Bnb051jbkcc9YAda2MFW&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1Wqq0zOuiFOrlQu0og81-RY2u4fRMyumJ&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E8 END
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1BOQTASWP-GtURmAONaYGYocwUDrB10kN&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+
+# ====== Bidaah ======
+#EXTINF:-1 tvg-id="Bidaah2025E01" tvg-name="Bidaah 2025 E1" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/b8393c5bf96f5f09dddfbb133a420c8b/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E02" tvg-name="Bidaah 2025 E2" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/addded9a5efcba9169a8003864488d9a/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E03" tvg-name="Bidaah 2025 E3" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/327a7a9a0a65506fe18c2b07c280dff9/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E04" tvg-name="Bidaah 2025 E4" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/c169a228140a9cf3f8ec3bd2b7076f25/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E05" tvg-name="Bidaah 2025 E5" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/a53cc8211d0c1fc0589021f946159a5b/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E06" tvg-name="Bidaah 2025 E6" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/708b6b42dd899f96bf7ac27163efacf8/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E07" tvg-name="Bidaah 2025 E7" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E08" tvg-name="Bidaah 2025 E8" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/5830f9714c25e178ace8561c5ff6807d/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E09" tvg-name="Bidaah 2025 E9" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/b09c7e53973e21e80a20bb3f4c48a3be/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E10" tvg-name="Bidaah 2025 E10" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://drive.usercontent.google.com/download?id=1xCL_aA98FQCNa-BslAhKWmPk96e5xRPo&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+#EXTINF:-1 tvg-id="Bidaah2025E11" tvg-name="Bidaah 2025 E11" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E12" tvg-name="Bidaah 2025 E12" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/24173447dff736b274f0ae0b51db3055/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E13" tvg-name="Bidaah 2025 E13" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E14" tvg-name="Bidaah 2025 E14" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E15" tvg-name="Bidaah 2025 E15" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8

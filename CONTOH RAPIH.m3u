@@ -9,15 +9,51 @@ http://yourserver.com/live/channel1.m3u8
 http://yourserver.com/movies/thematrix.mp4
 
 # ====== SERIES: Naruto Season 1 ======
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="http://yourserver.com/posters/naruto.jpg" group-title="Series - Naruto S1", Naruto - Episode 1
+#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 1
 http://yourserver.com/series/naruto/s1/ep1.mp4
 
-#EXTINF:-1 tvg-id="naruto2" tvg-logo="http://yourserver.com/posters/naruto.jpg" group-title="Series - Naruto S1", Naruto - Episode 2
+#EXTINF:-1 tvg-id="naruto2" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 2
+http://yourserver.com/series/naruto/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="naruto3" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 3
+http://yourserver.com/series/naruto/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="naruto4" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 4
+http://yourserver.com/series/naruto/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="naruto5" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 5
+http://yourserver.com/series/naruto/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="naruto6" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 6
+http://yourserver.com/series/naruto/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="naruto7" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 7
+http://yourserver.com/series/naruto/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="naruto8" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 8
 http://yourserver.com/series/naruto/s1/ep2.mp4
 
 # ====== SERIES: One Piece Season 1 ======
-#EXTINF:-1 tvg-id="op1" tvg-logo="http://yourserver.com/posters/onepiece.jpg" group-title="Series - One Piece S1", One Piece - Episode 1
+#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 1
 http://yourserver.com/series/onepiece/s1/ep1.mp4
 
-#EXTINF:-1 tvg-id="op2" tvg-logo="http://yourserver.com/posters/onepiece.jpg" group-title="Series - One Piece S1", One Piece - Episode 2
+#EXTINF:-1 tvg-id="op2" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 2
+http://yourserver.com/series/onepiece/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="op3" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 3
+http://yourserver.com/series/onepiece/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="op4" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 4
+http://yourserver.com/series/onepiece/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="op5" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 5
+http://yourserver.com/series/onepiece/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="op6" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 6
+http://yourserver.com/series/onepiece/s1/ep2.mp4
+
+#EXTINF:-1 tvg-id="op7" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 7
+http://yourserver.com/series/onepiece/s1/ep1.mp4
+
+#EXTINF:-1 tvg-id="op8" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series - One Piece S1", One Piece - Episode 8
 http://yourserver.com/series/onepiece/s1/ep2.mp4

@@ -173,72 +173,205 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 # <================== MOVIES =============================================================================>
 
-#EXTINF:-1 tvg-id="movie1" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#KODIPROP:inputstream.adaptive.manifest_type=mp4
+#EXTINF:-1 tvg-id="dubID001" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Movies",Captain America: Brave New World (2025)
+https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
 
-#EXTINF:-1 tvg-id="movie2" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#EXTINF:-1 tvg-id="dubID002" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5c0ab2ab8429fa760983336fb117d562d1c063f6f3bd25bd2f492bbd2972f3fc.png" group-title="Movies",CEK TOKO SEBELAH 1
+https://files.dubbindo.site/upload/videos/2025/06/8dGdBZXOOl13KckOHL1U_02_a799d243d3b3d5d8d2f71144d2530092_video_480p_converted.mp4
 
-#EXTINF:-1 tvg-id="movie3" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#EXTINF:-1 tvg-id="dubID003" tvg-logo="https://cinemags.org/wp-content/uploads/2022/11/Cek-toko-sebelah-2.png" group-title="Movies",CEK TOKO SEBELAH 2
+https://files.dubbindo.site/upload/videos/2025/06/pMqLjxlBWdSqwRAeUQQj_02_1a637176001994c8cbca2bafc4125326_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="movie4" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#EXTINF:-1 tvg-id="dubID004" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="Movies",Cars 3 (2017)
+https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="movie5" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#EXTINF:-1 tvg-id="dubID005" tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="Movies",Cars 2 (2011)
+https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-id="movie6" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
-http://yourserver.com/movies/thematrix.mp4
+#EXTINF:-1 tvg-id="dubID006" tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="Movies",Cars (2006)
+https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
 
-# ===================== SERIES: Naruto Season 1 =================================================================================================
+#EXTINF:-1 tvg-id="dubID007" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_Video On Demand.jpg" group-title="Movies",Toy Story (1995)
+https://cldup.com/iAs8qzOwTf8.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 1
-http://yourserver.com/series/naruto/s1/ep1.mp4
+#EXTINF:-1 tvg-id="dubID008" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Toy Story 2 (1999)
+https://files.dubbindo.site/uvideoweb/movie/Toy.Story.2.1999.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 2
-http://yourserver.com/series/naruto/s1/ep2.mp4
+#EXTINF:-1 tvg-id="dubID009" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Toy_Story_3_poster.jpg" group-title="Movies",Toy Story 3 (2010)
+https://files.dubbindo.site/uvideoweb/movie/Toy.Story.3.2010.HS.720p.Dubbing.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 3
-http://yourserver.com/series/naruto/s1/ep1.mp4
+#EXTINF:-1 tvg-id="dubID010" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Toy_Story_4_poster.jpg" group-title="Movies",Toy Story 4 (2019)
+https://files.dubbindo.site/upload/videos/2021/09/ToyStrory42019Bluray_18_xc2qnbaug8aq_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 4
-http://yourserver.com/series/naruto/s1/ep2.mp4
+#EXTINF:-1 tvg-id="dubID011" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/07/06/1926831745.jpg" group-title="Movies",Kromoleo (2024)
+https://files.dubbindo.site/upload/videos/2025/03/Uf127Xwkoj8dHRbxAJP1_16_a134ce3c889075239f420dbb84f40ad0_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 5
-http://yourserver.com/series/naruto/s1/ep1.mp4
+#EXTINF:-1 tvg-id="dubID012" tvg-logo="https://cdn.myanimelist.net/images/anime/7/72420.jpg" group-title="Movies",Doraemon Movie 15: Nobita to Mugen Sankenshi
+https://files.dubbindo.site/upload/videos/2022/05/T6Vdofgz4YrAGY6fD9jZ_05_cc6dd309f89570d8da40c00a468a7cd6_video_480p_converted.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 6
-http://yourserver.com/series/naruto/s1/ep2.mp4
+#EXTINF:-1 tvg-id="dubID013" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_p1NOpV3aqI94O6MtkU7-2HCYlmC9ScBTg&s" group-title="Movies",Doraemon Movie 14: Nobita to Buriki no Labyrinth
+https://cldup.com/iZ9h9U5ciQZ.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 7
-http://yourserver.com/series/naruto/s1/ep1.mp4
+#EXTINF:-1 tvg-id="dubID014" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Kuasa_Gelap.jpg" group-title="Movies",Kuasa Gelap
+https://files.dubbindo.site/upload/videos/2025/03/4EjAPadpk1jlckpUixrU_17_bea4d4ac0e4419085898cc0cee43e3aa_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 8
-http://yourserver.com/series/naruto/s1/ep2.mp4
+#EXTINF:-1 tvg-id="dubID015" tvg-logo="https://cdn.rri.co.id/berita/Nabire/o/1719483270051-f8728b17-28e9-4865-a7f0-6c77b123ddc8-1/t822ugzw51re7b1.jpeg" group-title="Movies",Dosen Gahib:Sudah Atau Mati
+https://files.dubbindo.site/upload/videos/2025/03/q36oEY1qn4kEwBGgcA75_14_29e74b7620fc41f977d1dab17b44af8e_video_720p_converted.mp4
 
-# ====== SERIES: One Piece Season 1 ======
+#EXTINF:-1 tvg-id="dubID016" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="Movies",Jack the Giant Slayer 2013
+https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4fc0a7ea7fc70a19d42d90e18efa_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 1
-http://yourserver.com/series/onepiece/s1/ep1.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 2
-http://yourserver.com/series/onepiece/s1/ep2.mp4
+# ===================== SERIES =================================================================================================
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 3
-http://yourserver.com/series/onepiece/s1/ep1.mp4
+#EXTM3U
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 4
-http://yourserver.com/series/onepiece/s1/ep2.mp4
+===== DORAEMON SERIES =====
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",1. Doraemon - Bersemangatlah Rumah Hantu
+https://files.dubbindo.site/upload/videos/2024/10/tSbTAeRNZNLUr1yGdOLE_06_c29e446b9dbe7b7fa0548205bebc3246_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",2. Doraemon - Ayah Sang Pelari
+https://files.dubbindo.site/upload/videos/2024/10/xZeUpoc4WeMV43sFi4bh_07_f5105670b9085e9cc254fad0ec1b003d_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",3. Doraemon - Peternak Makanan Manis
+https://files.dubbindo.site/upload/videos/2024/10/tkXo7Iv3Yp4ZmsI4zDiB_08_fc068c19e318a7d9e61dc274f3587866_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",4. Doraemon - Perang Luar Angkasa di Langit-Langit Rumah
+https://files.dubbindo.site/upload/videos/2024/10/7ZGW27llWRi7Eg4wIRho_09_727814e931c42a0606b2dcbb8b8586cd_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",5. Doraemon - Kamera Peran Terbaik
+https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49551fea78133709d983744cf9ce_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 5
-http://yourserver.com/series/onepiece/s1/ep1.mp4
+===== OMAR (UMAR BIN KHATTAB) SERIES =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",1. OMAR Episode 1
+https://files.dubbindo.site/upload/videos/2024/03/A34gfl6vhjucnkmchLPw_18_4253bfb2caf6c5492b0fb8dfc0794f3c_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",2. OMAR Episode 2-3
+https://files.dubbindo.site/upload/videos/2024/03/3Cz5T8jT4rx4PgDSLVJY_18_974758a328a0bdcba83d923fea0d7748_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",3. OMAR Episode 4-5
+https://files.dubbindo.site/upload/videos/2024/03/EaUtCc8NdG32xEdygoj7_18_58384d938c48033323849e8588e55fb0_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",4. OMAR Episode 6-7
+https://files.dubbindo.site/upload/videos/2024/03/BVWLLPOApGBOqxJiswAC_18_51555620af8263f63712247d4da35b6b_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",5. OMAR Episode 8-9
+https://files.dubbindo.site/upload/videos/2024/03/2B3jXh6yc7RACzfq9oTs_19_e9954ade81505ad81878bb932ff5f562_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",6. OMAR Episode 10
+https://files.dubbindo.site/upload/videos/2024/03/iPlefx1hMeceMmQ7F3Cd_20_4bc66f2bfaf5192a1d054bbbcc29125e_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",7. OMAR Episode 11
+https://files.dubbindo.site/upload/videos/2024/03/BkZI3jXu7Wo9gPTUNAsy_21_d87846baa23140cc4d5ff979ea38bc01_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",8. OMAR Episode 12
+https://files.dubbindo.site/upload/videos/2024/03/esoL2m8zPNnBjday5ZFi_24_669301d1bd1852cb9565d29a45aefd7e_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 6
-http://yourserver.com/series/onepiece/s1/ep2.mp4
+===== ONE PIECE: GYOJIN TOUHEN =====
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",1. One Piece Gyojin Touhen - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1Hlr3ELgWthOlByCLXzMfxUFFRR3TRYcm&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",2. One Piece Gyojin Touhen - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s3.acefile.co/V3/files/a68288b8206d23ea6b2361aeadd6b923.mp4
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",3. One Piece Gyojin Touhen - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1MMfCI9O_kop2-TQs5CqvcEqvK36BZ_7W&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",4. One Piece Gyojin Touhen - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://drive.usercontent.google.com/download?id=1RvuaqKAzdvZYOLepNloaMatncvG0YpGe&export=download
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",5. One Piece Gyojin Touhen - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-5-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",6. One Piece: Gyojin Tou-hen-Episode 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-6-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",7. One Piece: Gyojin Tou-hen-Episode 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-7-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",8. One Piece: Gyojin Tou-hen-Episode 8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-8-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",9. One Piece: Gyojin Tou-hen-Episode 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-9-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",10. One Piece: Gyojin Tou-hen-Episode 10 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-10-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",11. One Piece: Gyojin Tou-hen-Episode 11 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-11-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",12. One Piece: Gyojin Tou-hen-Episode 12 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-12-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",13. One Piece: Gyojin Tou-hen-Episode 13 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-13-MP4HD-SAMEHADAKU.CARE.mp4
+EXTINF:-1 group-title="SERIES"  tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",14. One Piece: Gyojin Tou-hen-Episode 14 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://s0.wibufile.com/video/OPGTh-14-MP4HD-SAMEHADAKU.CARE.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 7
-http://yourserver.com/series/onepiece/s1/ep1.mp4
 
-#EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 8
-http://yourserver.com/series/onepiece/s1/ep2.mp4
+# ====== induk gajah 2 ======
+
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah001" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1Ko-NyOH5Tf9U_j5f87dfR6Ebl4RZT2oT&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah002" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1ux-p0KBNFi2jxb2UR-wxHHBv8D6kOycz&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah003" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1xncBZWjMH7XmUytBFUZx5HipBJ3lAwr2&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah004" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1FnNC0GEBJyasaJNDb1kqu9ca8-60Pkvt&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah005" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1_yoPuPUQQOJ-E3DK_-_lGH_jf-mT2hi3&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah006" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1qXeX7ixb6vC-Bnb051jbkcc9YAda2MFW&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah007" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1Wqq0zOuiFOrlQu0og81-RY2u4fRMyumJ&export=download
+#EXTINF:-1 group-title="SERIES" tvg-id="indukgajah008" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",INDUK GAJAH S2 E8 END
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1BOQTASWP-GtURmAONaYGYocwUDrB10kN&export=download
+
+# ====== Bidaah ======
+#EXTINF:-1 tvg-id="Bidaah2025E01" tvg-name="Bidaah 2025 E1" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/b8393c5bf96f5f09dddfbb133a420c8b/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E02" tvg-name="Bidaah 2025 E2" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/addded9a5efcba9169a8003864488d9a/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E03" tvg-name="Bidaah 2025 E3" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/327a7a9a0a65506fe18c2b07c280dff9/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E04" tvg-name="Bidaah 2025 E4" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/c169a228140a9cf3f8ec3bd2b7076f25/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E05" tvg-name="Bidaah 2025 E5" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/a53cc8211d0c1fc0589021f946159a5b/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E06" tvg-name="Bidaah 2025 E6" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/708b6b42dd899f96bf7ac27163efacf8/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E07" tvg-name="Bidaah 2025 E7" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz//yyy/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E08" tvg-name="Bidaah 2025 E8" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/5830f9714c25e178ace8561c5ff6807d/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E09" tvg-name="Bidaah 2025 E9" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/b09c7e53973e21e80a20bb3f4c48a3be/24/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E10" tvg-name="Bidaah 2025 E10" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/eb6eef19e48491bc0a5f72a6b22142b8/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E11" tvg-name="Bidaah 2025 E11" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E12" tvg-name="Bidaah 2025 E12" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/24173447dff736b274f0ae0b51db3055/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E13" tvg-name="Bidaah 2025 E13" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E14" tvg-name="Bidaah 2025 E14" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
+#EXTINF:-1 tvg-id="Bidaah2025E15" tvg-name="Bidaah 2025 E15" group-title="SERIES" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8

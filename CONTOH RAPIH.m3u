@@ -1,0 +1,24 @@
+#EXTM3U
+
+# Naruto Series
+#EXTINF:-1 tvg-id="narutos1e1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 1
+http://yourserver.com/videos/naruto/ep1.mp4
+
+#EXTINF:-1 tvg-id="narutos1e2" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 2
+http://yourserver.com/videos/naruto/ep2.mp4
+
+#EXTINF:-1 tvg-id="narutos1e3" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 2
+http://yourserver.com/videos/naruto/ep2.mp4
+
+#EXTINF:-1 tvg-id="narutos1e4" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 2
+http://yourserver.com/videos/naruto/ep2.mp4
+
+#EXTINF:-1 tvg-id="narutos1e5" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 2
+http://yourserver.com/videos/naruto/ep2.mp4
+
+#EXTINF:-1 tvg-id="narutos1e6" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Naruto", Naruto - Episode 2
+http://yourserver.com/videos/naruto/ep2.mp4
+
+# One Piece Series
+#EXTINF:-1 tvg-id="op1" tvg-logo="http://yourserver.com/posters/onepiece.jpg" group-title="One Piece", One Piece - Episode 1
+http://yourserver.com/videos/onepiece/ep1.mp4

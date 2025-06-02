@@ -2,55 +2,159 @@
 
 # ================= TV Indonesia  ===========================================================================
 
-#EXTINF:-1 tvg-id="tv1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="tv2" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="tv3" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/987px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="tv4" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV LOKAL",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 tvg-id="tv5" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV LOKAL",RCTI HD
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
-#EXTINF:-1 tvg-id="tv6" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png" group-title="TV LOKAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="tv7" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="TV ID", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MNCTV
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV LOKAL",GTV
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="TV LOKAL",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TV LOKAL",TVRI HD
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/320px-Logo_Trans7.png" group-title="TV LOKAL",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/320px-Logo_Trans_TV.png" group-title="TV LOKAL",TRANS TV
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/480px-CNN_Indonesia_logo.svg.png" group-title="TV LOKAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png" group-title="TV LOKAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/800px-TvOne_2023.svg.png" group-title="TV LOKAL",TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="TV LOKAL",INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png" group-title="TV LOKAL",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png" group-title="TV LOKAL",NET TV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX692aJjM9sKUIJcfy1N2OxKFI4o3GlUKQFA&s" group-title="TV LOKAL",MOJI TV
+https://cdn11jtedge.indihometv.com/joss/134/ochannel720/chunklist_w131193813_b1044100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV LOKAL",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png" group-title="TV LOKAL",NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="TV LOKAL",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV LOKAL",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="TV LOKAL",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg/1200px-Logo_Kementerian_Kesehatan_Republik_Indonesia_%282024_rev%29.svg.png" group-title="TV LOKAL",KEMENKES TV
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png" group-title="TV LOKAL",TABALONG TV
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Prima_TV_Logo.png" group-title="TV LOKAL",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
 
 # ================= TV Olahraga =========================================================================
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="Olahraga", TVRI Sport HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN HELDINNEN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN WOMEN FOOTBALL
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Olahraga", DAZN RINGSIDE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Olahraga", TEN SPORT HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Olahraga", Bein SPORT xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvs1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Olahraga", Channel 1
-http://yourserver.com/live/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Olahraga", BEIN SPORT 1 EN
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Olahraga", BEIN SPORT 1 UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Olahraga", BEIN SPORT 1 AR
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="Olahraga", SONY TEN HD 1
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="Olahraga", SONY TEEN 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="Olahraga", SONY TEEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="Olahraga", SONY TEEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="Olahraga", SONY TEEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902" group-title="Olahraga", SONY TEEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/07/20250407040010992274_63.png" group-title="Olahraga", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQFk5Zfkdv3w3g/article-cover_image-shrink_720_1280/0/1644866702756?e=2147483647&v=beta&t=xHiVYHFVJs1GLD3yOmJOgCuyUoLVQnBNo7BIBVTMnfE" group-title="Olahraga", BILLIYARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://truesportpur.ca/true-sport-bilingual-png" group-title="Olahraga", TRUE SPORTS 2
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/liverpool_f.c.-logo_brandlogos.net_vr9dx.png" group-title="Olahraga", LIVERPOOL TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/wwe-logo_brandlogos.net_spkwl.png" group-title="Olahraga", WWE NETWORK HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="Olahraga", TNT SPORT 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="Olahraga", SKY SPORTS F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+
 
 # <================== MOVIES =============================================================================>
 
@@ -73,6 +177,7 @@ http://yourserver.com/movies/thematrix.mp4
 http://yourserver.com/movies/thematrix.mp4
 
 # ===================== SERIES: Naruto Season 1 =================================================================================================
+
 #EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series", Naruto - Episode 1
 http://yourserver.com/series/naruto/s1/ep1.mp4
 
@@ -98,6 +203,7 @@ http://yourserver.com/series/naruto/s1/ep1.mp4
 http://yourserver.com/series/naruto/s1/ep2.mp4
 
 # ====== SERIES: One Piece Season 1 ======
+
 #EXTINF:-1 tvg-id="op1" tvg-logo="https://images.justwatch.com/poster/301574476/s718/season-1.jpg" group-title="Series", One Piece - Episode 1
 http://yourserver.com/series/onepiece/s1/ep1.mp4
 

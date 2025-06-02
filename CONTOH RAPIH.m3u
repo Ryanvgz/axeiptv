@@ -157,6 +157,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%2
 #EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="Olahraga", SKY SPORTS F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Real_Madrid_TV_ES_logo_v2.png" group-title="Olahraga", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="Olahraga", SKY SPORTS F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
 
 # <================== MOVIES =============================================================================>
 

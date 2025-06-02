@@ -1,14 +1,47 @@
 #EXTM3U
 
-# ====== LIVE TV ======
+# ================= LIVE TV ===========================================================================
 #EXTINF:-1 tvg-id="tv1" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
 http://yourserver.com/live/channel1.m3u8
 
-# ====== MOVIES ======
+#EXTINF:-1 tvg-id="tv2" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="tv3" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="tv4" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="tv5" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="tv6" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="tv7" tvg-logo="http://yourserver.com/logos/tv1.png" group-title="Live TV", Channel 1
+http://yourserver.com/live/channel1.m3u8
+
+# ================== MOVIES =============================================================================
 #EXTINF:-1 tvg-id="movie1" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
 http://yourserver.com/movies/thematrix.mp4
 
-# ====== SERIES: Naruto Season 1 ======
+#EXTINF:-1 tvg-id="movie2" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
+http://yourserver.com/movies/thematrix.mp4
+
+#EXTINF:-1 tvg-id="movie3" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
+http://yourserver.com/movies/thematrix.mp4
+
+#EXTINF:-1 tvg-id="movie4" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
+http://yourserver.com/movies/thematrix.mp4
+
+#EXTINF:-1 tvg-id="movie5" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
+http://yourserver.com/movies/thematrix.mp4
+
+#EXTINF:-1 tvg-id="movie6" tvg-logo="http://yourserver.com/logos/movie1.jpg" group-title="Movies", The Matrix
+http://yourserver.com/movies/thematrix.mp4
+
+# ===================== SERIES: Naruto Season 1 =================================================================================================
 #EXTINF:-1 tvg-id="naruto1" tvg-logo="https://resizing.flixster.com/oV9JQMEDsw0HA0415DXSuVJvlHQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7842736_b_v8_ab.jpg" group-title="Series - Naruto S1", Naruto - Episode 1
 http://yourserver.com/series/naruto/s1/ep1.mp4
 

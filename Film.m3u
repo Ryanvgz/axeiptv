@@ -135,38 +135,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="TV LOKAL",MY KIDZ HD
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
-=======================================================Video On Demand==========================================================================
-
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Video On Demand",Captain America: Brave New World (2025)
-https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="Video On Demand",Cars 3 (2017)
-https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="Video On Demand",Cars 2 (2011)
-https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="Video On Demand",Cars (2006)
-https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_Video On Demand.jpg" group-title="Video On Demand",Toy Story (1995)
-https://cldup.com/iAs8qzOwTf8.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg" group-title="Video On Demand",Toy Story 2 (1999)
-https://files.dubbindo.site/uvideoweb/movie/Toy.Story.2.1999.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Toy_Story_3_poster.jpg" group-title="Video On Demand",Toy Story 3 (2010)
-https://files.dubbindo.site/uvideoweb/movie/Toy.Story.3.2010.HS.720p.Dubbing.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Toy_Story_4_poster.jpg" group-title="Video On Demand",Toy Story 4 (2019)
-https://files.dubbindo.site/upload/videos/2021/09/ToyStrory42019Bluray_18_xc2qnbaug8aq_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/07/06/1926831745.jpg" group-title="Video On Demand",Kromoleo (2024)
-https://files.dubbindo.site/upload/videos/2025/03/Uf127Xwkoj8dHRbxAJP1_16_a134ce3c889075239f420dbb84f40ad0_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/7/72420.jpg" group-title="Video On Demand",Doraemon Movie 15: Nobita to Mugen Sankenshi
-https://files.dubbindo.site/upload/videos/2022/05/T6Vdofgz4YrAGY6fD9jZ_05_cc6dd309f89570d8da40c00a468a7cd6_video_480p_converted.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_p1NOpV3aqI94O6MtkU7-2HCYlmC9ScBTg&s" group-title="Video On Demand",Doraemon Movie 14: Nobita to Buriki no Labyrinth
-https://cldup.com/iZ9h9U5ciQZ.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Kuasa_Gelap.jpg" group-title="Video On Demand",Kuasa Gelap
-https://files.dubbindo.site/upload/videos/2025/03/4EjAPadpk1jlckpUixrU_17_bea4d4ac0e4419085898cc0cee43e3aa_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Nabire/o/1719483270051-f8728b17-28e9-4865-a7f0-6c77b123ddc8-1/t822ugzw51re7b1.jpeg" group-title="Video On Demand",Dosen Gahib:Sudah Atau Mati
-https://files.dubbindo.site/upload/videos/2025/03/q36oEY1qn4kEwBGgcA75_14_29e74b7620fc41f977d1dab17b44af8e_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="Video On Demand",Jack the Giant Slayer 2013 
-https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4fc0a7ea7fc70a19d42d90e18efa_video_720p_converted.mp4
-
 =======================================================SERIS==========================================================================
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",Doraemon Series - Bersemangatlah Rumah Hantu
@@ -301,21 +269,48 @@ https://cloud.hownetwork.xyz//yyy/708b6b42dd899f96bf7ac27163efacf8/24/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://cloud.hownetwork.xyz//yyy/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
 
-   #EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://cdn.turboviplay.com/data1/67ded41977f39/67ded41977f391080.m3u8
 
 <=============================================== Video On Demand =====================================>
 
+#KODIPROP:inputstream.adaptive.manifest_type=mp4
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Video On Demand",Captain America: Brave New World (2025)
+https://no6ojcmmspit.acek-cdn.com/hls2/01/04090/872872vdzhtm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EcEj1BNxf6RC2KaWG_ofOtXgXjfBOdE-RHSQQS0Bh68&s=1742131604&e=129600&f=20450873&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg" group-title="Video On Demand",Cars 3 (2017)
+https://files.dubbindo.site/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://danieldokter.wordpress.com/wp-content/uploads/2011/10/cars_2.jpg" group-title="Video On Demand",Cars 2 (2011)
+https://files.dubbindo.site/uvideoweb/movie/Cars.2.2011.HS.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gXSZEof3eHaFXK7oRYiG7pmh5oo.jpg" group-title="Video On Demand",Cars (2006)
+https://files.dubbindo.site/uvideoweb/movie/Cars.2006.HS.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_Video On Demand.jpg" group-title="Video On Demand",Toy Story (1995)
+https://cldup.com/iAs8qzOwTf8.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg" group-title="Video On Demand",Toy Story 2 (1999)
+https://files.dubbindo.site/uvideoweb/movie/Toy.Story.2.1999.HS.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Toy_Story_3_poster.jpg" group-title="Video On Demand",Toy Story 3 (2010)
+https://files.dubbindo.site/uvideoweb/movie/Toy.Story.3.2010.HS.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Toy_Story_4_poster.jpg" group-title="Video On Demand",Toy Story 4 (2019)
+https://files.dubbindo.site/upload/videos/2021/09/ToyStrory42019Bluray_18_xc2qnbaug8aq_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/07/06/1926831745.jpg" group-title="Video On Demand",Kromoleo (2024)
+https://files.dubbindo.site/upload/videos/2025/03/Uf127Xwkoj8dHRbxAJP1_16_a134ce3c889075239f420dbb84f40ad0_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/7/72420.jpg" group-title="Video On Demand",Doraemon Movie 15: Nobita to Mugen Sankenshi
+https://files.dubbindo.site/upload/videos/2022/05/T6Vdofgz4YrAGY6fD9jZ_05_cc6dd309f89570d8da40c00a468a7cd6_video_480p_converted.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_p1NOpV3aqI94O6MtkU7-2HCYlmC9ScBTg&s" group-title="Video On Demand",Doraemon Movie 14: Nobita to Buriki no Labyrinth
+https://cldup.com/iZ9h9U5ciQZ.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/aa/Poster_Kuasa_Gelap.jpg" group-title="Video On Demand",Kuasa Gelap
+https://files.dubbindo.site/upload/videos/2025/03/4EjAPadpk1jlckpUixrU_17_bea4d4ac0e4419085898cc0cee43e3aa_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://cdn.rri.co.id/berita/Nabire/o/1719483270051-f8728b17-28e9-4865-a7f0-6c77b123ddc8-1/t822ugzw51re7b1.jpeg" group-title="Video On Demand",Dosen Gahib:Sudah Atau Mati
+https://files.dubbindo.site/upload/videos/2025/03/q36oEY1qn4kEwBGgcA75_14_29e74b7620fc41f977d1dab17b44af8e_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="Video On Demand",Jack the Giant Slayer 2013 
+https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4fc0a7ea7fc70a19d42d90e18efa_video_720p_converted.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",Bullet Train Explosion (2025)
 https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/OQIDQSO8IDkS0hkzG8aY3A6O1a.jpg",Lifeline (2025)
 https://cloud.hownetwork.xyz/xxx/LhEvKykQGSRvY0d-dh0hPSAcJREdJkZ5ITBEdSUI/32/480.m3u8
 https://sskt.pouloszcleed.sbs/v4/lf/epqoc1/cf-master.txt?v=1744660858|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wmSCSKUI15Q2pApB5f3oEl0EQuE.jpg",Hell of a Summer (2025)
 https://cloud.hownetwork.xyz/xxx/Kh0lImgWEWwjfAQ5Ll0zKm9KeXxwVAAkIDUbExtvNz0hSygscEs/32/480.m3u8

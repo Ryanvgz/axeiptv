@@ -271,9 +271,38 @@ https://cloud.hownetwork.xyz//yyy/6dbd6613d16724f4ad605a11a3036ed7/24/480.m3u8
 
 #EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-https://cdn.turboviplay.com/data1/67ded41977f39/67ded41977f391080.m3u8
+https://cloud.hownetwork.xyz/xxx/5830f9714c25e178ace8561c5ff6807d/24/480.m3u8
 
-<=============================================== Video On Demand =====================================>
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/b09c7e53973e21e80a20bb3f4c48a3be/24/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/eb6eef19e48491bc0a5f72a6b22142b8/30/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/24173447dff736b274f0ae0b51db3055/30/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-id="Hub Premier 1.sg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp",Bidaah 2025 E15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
+https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8
+
+
+<=============================================== VOD =====================================>
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/rochelle_teaser2_poster_generic_2f6a7e1e.jpeg" group-title="Video On Demand",Captain America: Brave New World (2025)

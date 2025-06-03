@@ -94,9 +94,9 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Undefined",Sportstars 1 HD
+#EXTINF:-1 tvg-id="Ss1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title=Olahraga",Sportstars 1 HD
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Undefined", Sportstars 2 HD
+#EXTINF:-1 tvg-id="Ss2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 

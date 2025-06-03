@@ -101,6 +101,9 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-logo="https://www.mqtv.co.id/file-data/2024/06/Logo_MQTV_Original-1024x258.webp" group-title="TV ID",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w98077574.m3u8
 
+#EXTINF:-1 tvg-logo="https://tawaf.tv/wp-content/uploads/2025/02/cropped-cropped-LOGO-MULTICOLOR-Transparant.png" group-title="TV ID",TAWAF TV
+https://tvstreamcast.com/tawaftv.m3u8
+
 # =================================================== TV Olahraga =========================================================================
 
 #EXTM3U

@@ -6,12 +6,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="TV ID",Sportstars 1 HD
-https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="TV ID", Sportstars 2 HD
-https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png" group-title="TV ID",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
@@ -98,6 +92,15 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1239458707/duta_400x400.png" group-title="TV ID",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://izzah.tv/wp-content/uploads/2023/03/logo_izzah-174x57.png" group-title="TV ID",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmu.tv/uploads/logo/logo_622e1c63cf79b.png" group-title="TV ID",TV MU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mqtv.co.id/file-data/2024/06/Logo_MQTV_Original-1024x258.webp" group-title="TV ID",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w98077574.m3u8
+
 # =================================================== TV Olahraga =========================================================================
 
 #EXTM3U
@@ -180,6 +183,15 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/330px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="Olahraga", ABU DHABI SPORTS
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Olahraga",Sportstars 1 HD
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
+
+
 # <================== MOVIES =============================================================================>
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4

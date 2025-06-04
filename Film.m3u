@@ -204,21 +204,8 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", OH MY CERIA
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", OH MY CERIA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", MY TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", OH MY CERIA 3
-	https://cloud.hownetwork.xyz/xxx/KwxkKCAcEzJvY0d-dh0hPSAcJREdJkF0cTQSKnIF/32/480.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="indukgajah2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/84/Poster_Induk_Gajah_Musim_2_%282024%29.jpg",SSSSSSS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-	https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dmax.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", OH MY CERIA 5
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live04.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", OH MY CERIA 6
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live05.mpd
 
 
 # <================== MOVIES =============================================================================>
@@ -283,15 +270,27 @@ https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4f
 #EXTM3U
 
 ===== DORAEMON SERIES =====
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",1. Doraemon - Bersemangatlah Rumah Hantu
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Dunia yang Tenggelam
+https://files.dubbindo.site/upload/videos/2023/11/GYJoyKkZAGIp3yZprG8s_29_408a35773ce916f36e013492b2f692df_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Giant vs Hantu, Who is win?
+https://files.dubbindo.site/upload/videos/2023/11/9OysCNbPVbBkO1jqaFCE_29_df2c70d988023846a2b5d969767ae31f_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Selamat tinggal jendela
+https://files.dubbindo.site/upload/videos/2023/11/6eD4NP3P6HpmOP3f1HD8_29_ddffc6ebeb006272846cf01b3df34292_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Jadi Laki-laki Hujan itu Seram Loh!
+https://files.dubbindo.site/upload/videos/2023/11/FAJlEbIjYo2wUZJGTomX_29_97449ed52e39fca704c8364dd9aae435_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - tali pencari pasangan benda
+https://files.dubbindo.site/upload/videos/2023/11/uSAOpXiusxFr4NpaCM4u_27_16c535bf5b9dac1a8a04afa44fa3ba0a_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - elevator bumi
+https://files.dubbindo.site/upload/videos/2023/11/DYNQziCyXQs3YUTGe2Yv_27_68036592af0bc15d7d96c6b0df67634d_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Bersemangatlah Rumah Hantu
 https://files.dubbindo.site/upload/videos/2024/10/tSbTAeRNZNLUr1yGdOLE_06_c29e446b9dbe7b7fa0548205bebc3246_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",2. Doraemon - Ayah Sang Pelari
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Ayah Sang Pelari
 https://files.dubbindo.site/upload/videos/2024/10/xZeUpoc4WeMV43sFi4bh_07_f5105670b9085e9cc254fad0ec1b003d_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",3. Doraemon - Peternak Makanan Manis
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Peternak Makanan Manis
 https://files.dubbindo.site/upload/videos/2024/10/tkXo7Iv3Yp4ZmsI4zDiB_08_fc068c19e318a7d9e61dc274f3587866_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",4. Doraemon - Perang Luar Angkasa di Langit-Langit Rumah
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Perang Luar Angkasa di Langit-Langit Rumah
 https://files.dubbindo.site/upload/videos/2024/10/7ZGW27llWRi7Eg4wIRho_09_727814e931c42a0606b2dcbb8b8586cd_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES",5. Doraemon - Kamera Peran Terbaik
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Kamera Peran Terbaik
 https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49551fea78133709d983744cf9ce_video_720p_converted.mp4
 
 ===== OMAR (UMAR BIN KHATTAB) SERIES =====

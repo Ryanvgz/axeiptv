@@ -212,6 +212,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 
+#EXTINF:-1 tvg-id="dubID020" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg" group-title="Movies",Gampang Cuan
+https://files.dubbindo.site/upload/videos/2025/06/NnzfSqBimrJCmbIplMSj_02_8001ec90f88e317d5b222faecb88a62e_video_720p_converted.mp4
+
 #EXTINF:-1 tvg-id="dubID020" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA0MzY4MTktMWIyMS00NzBhLWI1OTktMmEyMzZmMTBkMTNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Srimulat Hidup Memang Komedi
 https://files.dubbindo.site/upload/videos/2025/06/Y5kkRovR7hV2rAOc38bv_03_d58bba86e65e26d1537677c701e1cd84_video_720p_converted.mp4
 

@@ -212,6 +212,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 
+#EXTINF:-1 tvg-id="dubID020" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Mendarat_Darurat.jpeg" group-title="Movies",Mendarat Darurat
+https://files.dubbindo.site/upload/videos/2025/06/77pPrcybDsRKK2os5lCp_04_b91595c4b2b9b17d786192c4eec5f733_video_720p_converted.mp4
+
 #EXTINF:-1 tvg-id="dubID019" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU2ZWQwNmEtZDQ1ZS00YzA0LWIwN2EtZTRjNzExMjZmMDI5XkEyXkFqcGc@._V1_.jpg" group-title="Movies",The Most Beautiful Girl in the World 2025
 https://files.dubbindo.site/upload/videos/2025/06/zVH873pKnawrY4L87u1Y_04_ae34c075306e6f07c054a59d374c3fd4_video_720p_converted.mp4
 

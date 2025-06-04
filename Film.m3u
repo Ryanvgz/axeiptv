@@ -212,7 +212,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 
-#EXTINF:-1 tvg-id="dubID017" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/250px-Poster_Waktu_Maghrib.jpg" group-title="Movies",WAKTU MAGHRIB
+F:-1 tvg-id="dubID019" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU2ZWQwNmEtZDQ1ZS00YzA0LWIwN2EtZTRjNzExMjZmMDI5XkEyXkFqcGc@._V1_.jpg" group-title="Movies",The Most Beautiful Girl in the World 2025
+https://files.dubbindo.site/upload/videos/2025/06/zVH873pKnawrY4L87u1Y_04_ae34c075306e6f07c054a59d374c3fd4_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="dubID018" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/250px-Poster_Waktu_Maghrib.jpg" group-title="Movies",WAKTU MAGHRIB
 https://drive.usercontent.google.com/download?id=1QF9q1ILkLo0aUuOjwXjC359sSb_NkraI&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
 
 

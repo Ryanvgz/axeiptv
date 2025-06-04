@@ -212,10 +212,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 
-#EXTINF:-1 tvg-id="dubID020" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg" group-title="Movies",Gampang Cuan
+#EXTINF:-1 tvg-id="dubID022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg" group-title="Movies",Gampang Cuan
 https://files.dubbindo.site/upload/videos/2025/06/NnzfSqBimrJCmbIplMSj_02_8001ec90f88e317d5b222faecb88a62e_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="dubID020" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA0MzY4MTktMWIyMS00NzBhLWI1OTktMmEyMzZmMTBkMTNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Srimulat Hidup Memang Komedi
+#EXTINF:-1 tvg-id="dubID021" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA0MzY4MTktMWIyMS00NzBhLWI1OTktMmEyMzZmMTBkMTNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Srimulat Hidup Memang Komedi
 https://files.dubbindo.site/upload/videos/2025/06/Y5kkRovR7hV2rAOc38bv_03_d58bba86e65e26d1537677c701e1cd84_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-id="dubID020" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Mendarat_Darurat.jpeg" group-title="Movies",Mendarat Darurat
@@ -278,10 +278,16 @@ https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4f
 
 
 # ===================== SERIES =================================================================================================
+#===== sUGGAR dEDDY =====
 
 #EXTM3U
 
-===== DORAEMON SERIES =====
+#EXTINF:-1 tvg-id="sdss1e1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="Movies",Sugar Daddy S1E1
+https://drive.usercontent.google.com/download?id=1Q9rsxa_8iOBr2Ogdcx_-01bVjI92f1Qi&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+
+#EXTM3U
+
+#===== DORAEMON SERIES =====
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Dunia yang Tenggelam
 https://files.dubbindo.site/upload/videos/2023/11/GYJoyKkZAGIp3yZprG8s_29_408a35773ce916f36e013492b2f692df_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Giant vs Hantu, Who is win?
@@ -305,7 +311,7 @@ https://files.dubbindo.site/upload/videos/2024/10/7ZGW27llWRi7Eg4wIRho_09_727814
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/e/e7/Doraemon_2005_banner.jpg/revision/latest?cb=20190725021623&path-prefix=id" group-title="SERIES", Doraemon - Kamera Peran Terbaik
 https://files.dubbindo.site/upload/videos/2024/10/HYoRXcZrXO2uRaufBO3B_10_9efa49551fea78133709d983744cf9ce_video_720p_converted.mp4
 
-===== OMAR (UMAR BIN KHATTAB) SERIES =====
+#===== OMAR (UMAR BIN KHATTAB) SERIES =====
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",1. OMAR Episode 1
 https://files.dubbindo.site/upload/videos/2024/03/A34gfl6vhjucnkmchLPw_18_4253bfb2caf6c5492b0fb8dfc0794f3c_video_360p_converted.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",2. OMAR Episode 2-3
@@ -323,7 +329,7 @@ https://files.dubbindo.site/upload/videos/2024/03/BkZI3jXu7Wo9gPTUNAsy_21_d87846
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Omar_%28TV_Series%29.jpg" group-title="SERIES",8. OMAR Episode 12
 https://files.dubbindo.site/upload/videos/2024/03/esoL2m8zPNnBjday5ZFi_24_669301d1bd1852cb9565d29a45aefd7e_video_720p_converted.mp4
 
-===== ONE PIECE: GYOJIN TOUHEN =====
+#===== ONE PIECE: GYOJIN TOUHEN =====
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://cdn.myanimelist.net/images/anime/1928/146063.jpg",1. One Piece Gyojin Touhen - Episode 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://drive.usercontent.google.com/download?id=1Hlr3ELgWthOlByCLXzMfxUFFRR3TRYcm&export=download

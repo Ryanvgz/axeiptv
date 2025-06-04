@@ -207,6 +207,30 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1200px-Sooka_Oh_My_Ceria.png" group-title="Olahraga", MY TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/6099
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/6100
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/125936
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/6098
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/6097
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/121246
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/113272
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga", Sportstars 2 HD
+http://mutlutv.xyz:8080/bnt0892/bnt00/6106
 
 # <================== MOVIES =============================================================================>
 

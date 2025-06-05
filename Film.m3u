@@ -219,11 +219,11 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 1
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598916
-#EXTINF:-1,ESPN FHD*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598915
-#EXTINF:-1,ESPN HD ¹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD 1
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598917
-#EXTINF:-1,ESPN HD ²
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD 2
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 2

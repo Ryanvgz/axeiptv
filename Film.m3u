@@ -236,6 +236,9 @@ http://mutlutv.xyz:8080/bnt0892/bnt00/6106
 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 
+#EXTINF:-1 tvg-id="dubID022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Poster_Pengantin_Setan.jpg" group-title="Movies",Pengantin Setan
+https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
+
 #EXTINF:-1 tvg-id="dubID022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg" group-title="Movies",Gampang Cuan
 https://files.dubbindo.site/upload/videos/2025/06/NnzfSqBimrJCmbIplMSj_02_8001ec90f88e317d5b222faecb88a62e_video_720p_converted.mp4
 
@@ -307,7 +310,20 @@ https://files.dubbindo.site/upload/videos/2025/02/LeDdydw4tIt8OqydVpko_06_6cfb4f
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sdss1e1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E1
-https://drive.usercontent.google.com/download?id=1Q9rsxa_8iOBr2Ogdcx_-01bVjI92f1Qi&export=download&authuser=0&confirm=t&uuid=67547801-03cc-43fa-8e6e-3010c90f7fdc&at=AIzaSyD5m5yB1tOtPKHr574F2yeOIHWhtn-LxKM
+https://files.dubbindo.site/upload/videos/2025/06/UxM4EPHxKlvE8AuVhFI6_04_2dbedda91ca294e02938bcbdb7c9ccdb_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="sdss1e2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E2
+https://files.dubbindo.site/upload/videos/2025/06/teZOSYRrzsq4hSpvHbij_04_e2e4f9f551d210002237514cc78dcfdc_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="sdss1e3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E3
+https://files.dubbindo.site/upload/videos/2025/06/wInfICTl7dMgJHJAIkYN_05_247be2cbdc6413ba57db75e44045631b_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="sdss1e4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E4
+https://files.dubbindo.site/upload/videos/2025/06/bnlacZvbUtfEdr4XxEQ7_05_8f0af70cf5cb9e9b76cf9827b63cd1b8_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="sdss1e5" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E1
+
+#EXTINF:-1 tvg-id="sdss1e6" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Poster_Sugar_Daddy_%282025%29.jpg" group-title="SERIES",Sugar Daddy S1E1
 
 #EXTM3U
 

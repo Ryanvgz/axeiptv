@@ -217,15 +217,8 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902" group-title="Olahraga", SONY TEEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 1
-http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598916
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598915
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD 1
-http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598917
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN FHD 2
-http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598918
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 2
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/131131
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 3
@@ -234,9 +227,7 @@ http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/13520
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/20947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 5
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/8827
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 6
-http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/8794
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 6 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 6 
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/30077
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/04/07/20250407040010992274_63.png" group-title="Olahraga", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8

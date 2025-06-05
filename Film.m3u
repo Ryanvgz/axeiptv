@@ -1,9 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="TV ID", Kajian Ilmiah 24/7 [KHB]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749058509/ei/bS9AaLTeEaiU1d8P-8bdoQ0/ip/2001%3A448a%3A602c%3A38d%3Abc4a%3A1e74%3Af138%3A6b68/id/Zn3zE4yeb78.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLOyAafPHEpSlMpNM-cj2VCtuZ3tmj2jbRi6Ya4Jv2DR9DScuvZJn0CsKGtqv0tnBqh1Pw/spc/l3OVKXwjpO1VKX3a9jf7f8xqyjBfJdcTocg-Q-1iJV9UUl4_0AUstWrqBP5ZijF20Jj3/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgERTHuwDuZgv5YhHIOnHWcMBWkd0ka1rZsBo-X86E4EcCIQDjRfLlqAAmXhWydiYtndZ1vD4Ovr_dVnGzngPqPE2l6w%3D%3D/file/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="TV ID", WWWW
+https://rr.buytommy.top/secure/CezKcMLivI/alpha/stream/wwe-network/1/playlist.m3u8
 # ================= TV Indonesia ===================================
 
 #EXTM3U

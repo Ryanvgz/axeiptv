@@ -122,7 +122,7 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1239458707/duta_400x400.png" group-title="TV ID",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="TV LOKAL",Banjar TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="TV ID",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #--------------------------Anak anak--------------------
@@ -609,6 +609,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 
+
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -714,6 +715,16 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Olahraga",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://pngimg.com/d/ufc_PNG64.png" group-title="Olahraga", UFC Channel
+http://vocotv.pro:80/jhart/jhart/833
+http://vocotv.pro:80/jhart/jhart/833
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/d/ufc_PNG64.png" group-title="Olahraga", UFC 24/7 HD
+http://vocotv.pro:80/jhart/jhart/258667
+http://vocotv.pro:80/jhart/jhart/258667
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/d/ufc_PNG64.png" group-title="Olahraga", WWE 24/7 HD
+http://vocotv.pro:80/jhart/jhart/258667
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="Olahraga", ESPN 
 http://vivofibrasp.uk:80/auuf8428pk/k7mave3xi5/598915

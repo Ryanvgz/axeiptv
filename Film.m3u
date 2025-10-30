@@ -1,4 +1,4 @@
-HBO
+CARHBO
 # ================= TV Indonesia ===================================
 
 #EXTM3U
@@ -1108,35 +1108,35 @@ https://cloud.hownetwork.xyz/xxx/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://cloud.hownetwork.xyz/xxx/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE4
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/07/I18lrj2xXiD4qNbWhoii_15_fc32113a9599d3d341c931f7de1f0808_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE5
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/DQpqSSj79A3hi8taTTOn_05_171763e4fad339c8ecf4eb0cf064ca4d_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE6
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/GDNRwrr7rSIrq6Tnd1pQ_06_8bd8c6e7495cf42fa0eb02425d7fc9dd_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE7
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/XaequNX4IDwPN5Iej6lN_06_221cdeea0cf4c7cf2e86e53446105774_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE8
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/1mOFR2rX2kGWvSbnudgh_07_c06dc16f4fb54c22c8343f7aa3c68321_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE9
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/8GT1JQ26p9OJ4CY6mtCC_07_f0c8b7b79300a1d78c56d85fcab428c8_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE10
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/I4p1hE5lnzANbbojlH14_07_bcf73844df05ca496511bb413df2068f_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-id="OP" tvg-name="OP" group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE11
+#EXTINF:-1 tvg-id="OP" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",OPE11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
 https://files.dubbindo.my.id/upload/videos/2021/11/UfwfYiYB8sxGeBywcFfG_07_e6cab242771436bbae5a4c85fb9b7f51_video_720p_converted.mp4
 
